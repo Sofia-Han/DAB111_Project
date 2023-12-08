@@ -1,7 +1,8 @@
 # Final Project Group 14 - DAB 111 (Introduction To Python Programming) - St. Clair College
 
 ## Project Goals
-For this Final Project submission, students were required to create a simple website containing data from a pre-selected dataset and create a repository on Github.
+For this Final Project submission, students were required to create a simple website containing data from a pre-selected dataset and display it in a repository on Github.
 
 ## About The Code
-In the database folder, it can be found 4 files: An app.py file (responsible for creating the website and inserting data from the database on it), a database_code.ipynb (responsible for creating the database in SQLite from a csv file), the database itself (named Udemy) and a templates folder containing the html scripts used by the app to create the website pages.
+The code presented in the database_code.ipynb is responsible for creating the database "Udemy" using SQLite library, by extracting information from a csv file and storing it in a table named "courses".
+The code presented in the app_code.py creates a website where data stored in the database "Udemy" is displayed in an orginized way. It runs html files with scripts for the construction of the pages.
