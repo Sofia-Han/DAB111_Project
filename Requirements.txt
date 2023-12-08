@@ -1,0 +1,8 @@
+
+The following libraries were used in the codes for this project:
+
+- sqlite3
+- pandas
+- csv
+- flask
+- pathlib 
