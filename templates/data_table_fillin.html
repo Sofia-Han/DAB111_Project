@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Website</title>
+    </head>
+    <body>
+        <!-- Button to return to the main page at the top of the page -->
+        <a href="http://127.0.0.1:5000/"><button>Return to Main Page</button></a>
+        
+        <h1>Udemy's Web Development Courses Data</h1>
+        <ul>
+            {% for s in courses %}
+                <strong>{{ s[0]|upper }}.</strong> {{ s[1]|upper }} : {% if s[2] %}True{% else %}False{% endif %} ; {{ s[3] }} ; {{ s[4] }} ; {{ s[5] }} ; {{ s[6] }} ; {{ s[7] }}. <br>
+            {% endfor %}
+        </ul>
+    </body>
+</html>
