@@ -1,0 +1,1201 @@
+id,title,isPaid,price,numSubscribers,numReviews,numPublishedLectures,instructionalLevel
+1,Learn Web Designing & HTML5/CSS3 Essentials in 4-Hours,TRUE,75,43285,525,24,All Levels
+2,Learning Dynamic Website Design - PHP MySQL and JavaScript,TRUE,50,47886,285,125,All Levels
+3,ChatBots: Messenger ChatBot with API.AI and Node.JS,TRUE,50,2577,529,64,All Levels
+4,Projects in HTML5,TRUE,60,8777,206,75,Intermediate Level
+5,Programming Foundations: HTML5 + CSS3 for Entrepreneurs 2015,TRUE,20,23764,490,58,Beginner Level
+6,How To Make A Wordpress Website 2017 | Divi Theme Tutorial,TRUE,40,3541,202,37,Beginner Level
+7,Build Your Own Backend REST API using Django REST Framework,TRUE,50,2669,112,72,Intermediate Level
+8,Angular and Firebase - Build a Web App with Typescript,TRUE,150,1966,359,65,All Levels
+9,Web Development Masterclass - Complete Certificate Course,TRUE,200,4090,178,348,All Levels
+10,Spring Boot Tutorial For Beginners,TRUE,40,2578,210,39,Beginner Level
+11,The Complete Bootstrap Masterclass Course - Build 4 Projects,TRUE,195,24978,540,67,All Levels
+12,Scaling Docker on AWS,TRUE,25,3133,351,63,All Levels
+13,Learn JavaScript for beginners,TRUE,200,15276,167,19,Beginner Level
+14,HTML Tutorial: HTML & CSS for Beginners,TRUE,20,12458,253,82,All Levels
+15,Learn by Doing: Vue JS 2.0 the Right Way,TRUE,95,1087,220,32,Intermediate Level
+16,Learn Complete Web Development From Scratch,TRUE,40,14074,106,46,All Levels
+17,Introduction to Web Development: HTML,TRUE,20,26800,333,55,Beginner Level
+18,Web Site for Beginners - Learn Web Building like knitting,TRUE,20,9425,147,14,Beginner Level
+19,How To Make A Wordpress Website 2017 - Divi Theme Tutorial,TRUE,40,2780,94,29,Beginner Level
+20,Web Programming with Python,TRUE,50,35267,217,53,All Levels
+21,PHP Login and Registration System - Email Confirm Activation,TRUE,100,2607,317,49,All Levels
+22,PSD to Responsive HTML5: Beginner to Advanced,TRUE,40,1502,218,49,All Levels
+23,Ultimate Web Developer Course Build 10 Websites from Scratch,TRUE,200,9359,110,402,Beginner Level
+24,Rapid Website Design with Bootstrap,TRUE,200,14842,131,17,Beginner Level
+25,Build Enterprise Applications with Angular 2 (and Angular 4),TRUE,190,6082,848,135,Intermediate Level
+26,Angular 4 (2+) Crash Course for Beginners,TRUE,120,12366,506,120,Beginner Level
+27,Accelerated JavaScript Training,TRUE,110,4720,1017,126,All Levels
+28,"Beginner API development in Node, Express, ES6, & MongoDB",TRUE,165,7057,655,65,Beginner Level
+29,React JS and Redux - Mastering Web Apps,TRUE,60,16829,820,77,All Levels
+30,Web Development w/ Google’s Go (golang) Programming Language,TRUE,65,4872,662,171,Intermediate Level
+31,Git a Web Developer Job: Mastering the Modern Workflow,TRUE,200,5809,1445,61,Beginner Level
+32,The Complete WordPress Website Business Course,TRUE,150,13439,1981,89,All Levels
+33,The Complete HTML and CSS Course For Beginners,TRUE,85,733,104,50,All Levels
+34,Learn  Bootstrap Development By Building 10 Projects,TRUE,60,14813,1358,74,All Levels
+35,Advanced Javascript,TRUE,200,6601,1304,26,Intermediate Level
+36,Dissecting Ruby on Rails 5 - Become a Professional Developer,TRUE,195,2804,418,212,All Levels
+37,The Complete Wordpress Course - Build Your Own Website Today,TRUE,195,9421,73,36,All Levels
+38,JQuery Essentials core training for Dynamic Interactive web,TRUE,100,9668,38,52,All Levels
+39,Node.js: The Essentials + API Frameworks Express KOA Sails,TRUE,20,2760,52,34,Beginner Level
+40,The Complete PHP Bootcamp Course With Video Sharing Project,TRUE,195,9831,56,74,Beginner Level
+41,Build a Single Page Application with jQuery & AJAX,TRUE,60,486,59,27,Intermediate Level
+42,Practical CSS Website Development: Crash Course ,TRUE,95,11170,35,19,All Levels
+43,Successful website creation - everything you need to know,TRUE,150,9384,21,16,All Levels
+44,Start Writing JavaScript Today - Beginner JavaScript Course,TRUE,100,9067,41,27,Beginner Level
+45,HTML5 Essentials for Beginners,TRUE,20,10247,200,15,Intermediate Level
+46,Code a personal splash page in 1 hour,TRUE,20,10610,83,10,Beginner Level
+47,Step-by-step HTML and CSS for Absolute Beginners,TRUE,120,6162,324,43,Beginner Level
+48,Angular 4 Development Decoded,TRUE,20,1802,13,8,Intermediate Level
+49,Javascript ES6! A Complete Reference Guide to Javascript ES6,TRUE,175,4783,41,48,Intermediate Level
+50,Reactive JS:  Are you ready for the next big paradigm shift?,TRUE,60,2097,401,28,Intermediate Level
+51,Learn Python and Django: Payment Processing,TRUE,70,17714,198,23,All Levels
+52,Code your first Website using HTML & CSS: Project Learning,TRUE,20,9554,368,16,Beginner Level
+53,"React.js: Building Production Ready Apps, Start to Finish",TRUE,50,1129,137,77,All Levels
+54,Learn Object Oriented Programming PHP fundamentals bootcamp,TRUE,100,22213,142,16,All Levels
+55,Javascript Intermediate level 2 - Mastering Functions,TRUE,100,2412,116,28,All Levels
+56,1 Hour CSS,TRUE,100,18324,333,16,Beginner Level
+57,"Become a Full Stack Developer with Spring, AWS and Stripe",TRUE,75,1696,193,60,Intermediate Level
+58,Complete JQuery And JQuery UI Course For Beginner,TRUE,80,7169,277,20,Intermediate Level
+59,Learn JavaScript for Web Development,TRUE,75,12893,220,95,Intermediate Level
+60,"Complete AJAX Using Bootstrap, PHP From Basic To Advanced.",TRUE,195,4708,111,18,All Levels
+61,Complete Wordpress Theme Development Course,TRUE,150,1050,223,64,All Levels
+62,How to Optimise Your WordPress Website's Speed & Security to Improve SEO & User Experience,TRUE,125,7852,46,31,All Levels
+63,Build A Web App With Spring Framework and Angular 2,TRUE,145,1683,340,48,All Levels
+64,Projects in Laravel: Learn Laravel Building 10 Projects,TRUE,50,119,6,70,Intermediate Level
+65,Javascript Intermediate level 3 - JSON,TRUE,100,1735,76,25,All Levels
+66,Develop Your First App in an Hour,TRUE,20,3699,201,11,Beginner Level
+67,PHP: Ultimate guide to PHP for everyone,TRUE,115,10103,75,20,Beginner Level
+68,JavaScript DOM Dynamic Web interactive content Boot Camp,TRUE,75,7380,43,59,All Levels
+69,"Master JavaScript Programming, 3 Projects Included !!",TRUE,20,3903,53,107,All Levels
+70,HTML CSS Learn to create a website from scratch,TRUE,50,4892,49,32,Beginner Level
+71,Complete Codeigniter: From Beginner to Advanced,TRUE,200,2786,31,20,All Levels
+72,HTML 5: How I made websites in HTML5,TRUE,135,15064,237,15,All Levels
+73,"Build Responsive Website Using HTML5, CSS3, JS And Bootstrap",TRUE,95,22623,783,73,All Levels
+74,Complete React JS web developer with ES6 - Build 10 projects,TRUE,200,952,121,75,Beginner Level
+75,Complete WordPress Theme Developer Course With Bootstrap,TRUE,150,3415,312,160,All Levels
+76,The Complete Ethical Hacking Course 2.0: Python & Kali Linux,TRUE,195,7827,268,66,All Levels
+77,Dynamic JavaScript Master Class AJAX JSON Simple APIs,TRUE,200,9773,117,65,Intermediate Level
+78,Vue JS - Mastering Web Apps,TRUE,80,13457,215,69,All Levels
+79,Angular NgRx Store Masterclass - Covers Angular 4,TRUE,150,1399,212,89,Intermediate Level
+80,JavaScript the Basics - JavaScript for Beginners,TRUE,120,4028,674,93,Beginner Level
+81,"Complete E-Commerce Course - Java,Spring,Hibernate and MySQL",TRUE,195,1371,165,83,All Levels
+82,"Learn SVG Animation - With HTML, CSS & Javascript",TRUE,65,12953,680,22,All Levels
+83,"Build a Responsive Website with HTML5, CSS3 and Bootstrap 4",TRUE,20,5125,395,53,All Levels
+84,Learn Web Designing & HTML5/CSS3 Essentials in 4-Hours,TRUE,75,43285,525,24,All Levels
+85,CSS Development (with CSS3!),TRUE,20,25864,188,32,All Levels
+86,Angular 2 & TypeScript Beginner Web Development,TRUE,200,5211,414,133,Beginner Level
+87,The Docker for DevOps course: From development to production,TRUE,25,8234,1111,110,All Levels
+88,"Beginner Full Stack Web Development: HTML, CSS, React & Node",TRUE,200,2687,331,138,Beginner Level
+89,Learn Angular 2 Development By Building 12 Apps,TRUE,50,5143,941,80,Intermediate Level
+90,"Server API Development in Swift, Kitura, & Bluemix",TRUE,200,1827,129,66,Beginner Level
+91,React VR - Creating Virtual Reality Apps,TRUE,80,5026,72,43,All Levels
+92,RxJs & Reactive Programming Angular Masterclass - Angular 4,TRUE,150,1301,179,80,All Levels
+93,"Coding for Entrepreneurs: Learn Python, Django, and More.",TRUE,195,23412,799,251,All Levels
+94,React and Flux Web Development for Beginners,TRUE,100,8691,836,63,Beginner Level
+95,The Full Stack Web Development,TRUE,60,3119,453,207,Beginner Level
+96,Learn Nodejs by building 12 projects,TRUE,50,10150,997,90,All Levels
+97,How to Make an Online Portfolio Website from Scratch ,FALSE,0,14026,232,25,All Levels
+98,How To Make A Web Page With No Code,FALSE,0,2214,20,23,Beginner Level
+99,Spring Framework 4 And Dependency Injection For Beginners,FALSE,0,21147,1220,16,Beginner Level
+100,Joomla 3 - The Basics,FALSE,0,19909,411,17,Beginner Level
+101,jQuery in Action: Build 8 jQuery Projects,TRUE,100,1385,89,97,All Levels
+102,Master WordPress Plugins: Shortcodes Ultimate - The Basics,FALSE,0,10780,110,19,All Levels
+103,ASP.NET C# - Enterprise Web Systems From Novice to Expert,TRUE,20,604,8,43,All Levels
+104,Wordpress - Create an Outstanding Website in 2 hours,TRUE,30,1772,13,48,Beginner Level
+105,Complete Website & CMS in PHP & MySQL From Scratch!,TRUE,20,3357,82,48,All Levels
+106,The Complete Web Development Tutorial Using React and Redux,TRUE,40,796,43,29,Intermediate Level
+107,Create and Deploy a Web App in 3 Hours,TRUE,50,4123,23,34,Beginner Level
+108,HTML & CSS From Scratch in 30 Days,TRUE,75,2697,64,82,Beginner Level
+109,Getting Started with Craft CMS,TRUE,20,997,31,20,All Levels
+110,JavaScript For Absolute Beginners - Level One,TRUE,65,713,80,8,All Levels
+111,Effective Personal Website Building and Hosting,TRUE,20,4259,0,11,All Levels
+112,Web Design for Web Developers: Build Beautiful Websites!,FALSE,0,98867,6512,20,All Levels
+113,"Learn Rails: Quickly Code, Style and Launch 4 Web Apps",TRUE,200,1849,21,83,All Levels
+114,Getting Started with NodeJS for Beginners,TRUE,195,1645,75,12,All Levels
+115,Quickstart AngularJS,FALSE,0,64128,4047,17,Beginner Level
+116,Byte-Sized-Chunks: Cascading Style Sheets (CSS) with HTML,TRUE,20,2160,16,28,All Levels
+117,Learn Building Your Own Website Without Coding,TRUE,50,7660,7,19,All Levels
+118,Practical Guide to Web Development,TRUE,20,2025,16,38,Beginner Level
+119,The Complete HTML5 and CSS3 Course,TRUE,40,1548,30,126,All Levels
+120,HTML & CSS for beginners: Build 3 projects from scratch,TRUE,40,2472,139,31,Beginner Level
+121,Code a 'Coming Soon' Landing Page in Bootstrap 4,FALSE,0,13535,473,18,All Levels
+122,Introduction to Bootstrap 3,TRUE,20,5795,79,29,Beginner Level
+123,Master ExpressJS to Build Web Apps with NodeJS&JavaScript,TRUE,50,2643,56,24,All Levels
+124,Learn XML Crash Course: Discover Essential XML Fundamentals ,TRUE,50,3704,111,18,Intermediate Level
+125,HTML5 CSS3 JQUERY Single Page Website Project from Scratch,TRUE,120,1678,34,32,All Levels
+126,Scrape Websites using PhantomJS and CasperJS,TRUE,195,960,110,32,Intermediate Level
+127,Amazon s3 Mastery - THE How-To' Guides For Amazon S3,TRUE,95,1811,118,36,All Levels
+128,HTML and CSS Crash Course for Beginners,TRUE,50,4123,46,31,Beginner Level
+129,EMMET Faster HTML & CSS workflow - Best Tool For Developers ,FALSE,0,26697,1097,20,All Levels
+130,Introduction to Web Development,TRUE,50,5921,35,42,Beginner Level
+131,AngularJS For ASP.NET MVC Developers,TRUE,50,3011,57,10,Intermediate Level
+132,Serverless Workflow Management with AWS Step Functions,FALSE,0,8768,173,8,Intermediate Level
+133,How to set up a Web Server From Scratch to One Fully Managed,TRUE,200,1673,31,24,All Levels
+134,The Complete PHP MySQL Professional Course with 5 Projects,TRUE,200,16158,159,125,All Levels
+135,Angular Masterclass,TRUE,150,4057,359,99,All Levels
+136,Become a Professional Web Developer | Version 3.0,TRUE,200,6851,276,454,All Levels
+137,Build Incredible Chatbots,TRUE,100,2234,253,115,All Levels
+138,Try Django 1.10 | Create a URL Shortening Service,TRUE,50,9607,78,40,All Levels
+139,Projects in CSS,TRUE,60,4689,216,54,All Levels
+140,Ruby on Rails: Training and Skills to Build Web Applications,TRUE,95,9375,219,43,All Levels
+141,Learn and Understand React,TRUE,30,4848,105,123,All Levels
+142,Learn Javascript & JQuery From Scratch,TRUE,30,84897,2685,10,All Levels
+143,Learn to use JSON,TRUE,150,12838,96,22,Beginner Level
+144,The Ultimate Web Developer How To Guide,TRUE,200,24861,423,281,All Levels
+145,"Build A Complete CRUD Application With PHP, MYSQL & JQUERY",TRUE,20,9762,94,112,All Levels
+146,jQuery Crash Course: Learn the Essentials of jQuery Fast,TRUE,50,11262,142,18,All Levels
+147,Drupal Tutorial : Drupal 8 Beginner to Expert in 8 PROJECTS,TRUE,200,1270,16,73,Beginner Level
+148,The Complete PHP CodeIgniter Course: Beginner To Advanced,TRUE,195,17895,212,30,All Levels
+149,JavaScript For Beginners : Learn JavaScript From Scratch,TRUE,195,11285,102,77,All Levels
+150,"Mastering 'Native CSS Shapes To Build Modern Web Pages""",TRUE,195,1040,5,30,All Levels
+151,WordPress Development For Beginners,TRUE,95,23572,210,20,All Levels
+152,WordPress local server setup and site migration online,TRUE,55,3801,43,12,All Levels
+153,PHP Fundamentals - Start Earning The Top Dollars You Deserve,TRUE,195,12068,81,12,All Levels
+154,Interactive Dynamic JavaScript for beginners DOM,TRUE,200,5559,35,21,Beginner Level
+155,Javascript Intermediate level 1 - Mastering the DOM,TRUE,100,1838,169,31,All Levels
+156,Sublime Text for Rapid Web Development,TRUE,20,2104,69,14,All Levels
+157,Servlets and JSPs Tutorial: Learn Web Applications With Java,TRUE,35,15187,970,64,All Levels
+158,Projects in PHP and MySQL,TRUE,60,10606,570,88,All Levels
+159,PHP OOP: Object Oriented Programming for beginners + Project,TRUE,200,6497,901,221,All Levels
+160,React Redux React-Router: From Beginner to Paid Professional,TRUE,20,11536,876,60,All Levels
+161,Django Core | A Reference Guide to Core Django Concepts,TRUE,195,16282,303,159,Intermediate Level
+162,"Angular 2 Complete E-Commerce App Course - Java,Spring,MySQL",TRUE,195,949,129,89,All Levels
+163,"Build An Online Bank With Java, Angular 2, Spring and More",TRUE,195,1995,286,45,Beginner Level
+164,The Complete jQuery Course: From Beginner To Advanced!,TRUE,195,6636,302,50,All Levels
+165,Projects in AngularJS - Learn by building 10 Projects,TRUE,40,7146,629,77,All Levels
+166,The Ultimate Vue JS 2 Developers Course,TRUE,195,1703,292,178,All Levels
+167,React JS - Build real world JS apps & deploy on cloud,TRUE,175,12815,262,53,All Levels
+168,Angular 4 Front To Back,TRUE,40,44,0,68,All Levels
+169,"Modern Web Development with SASS, Gulp, NPM & Web Workflows",TRUE,95,502,62,59,Beginner Level
+170,"HTML5, CSS3 And JavaScript Fundamentals 2016",TRUE,115,627,125,7,All Levels
+171,"Angular 4 - Concepts, Code and Collective Wisdom",TRUE,50,851,164,75,Intermediate Level
+172,Learn E-Commerce Website in PHP & MySQL From Scratch!,FALSE,0,29990,1342,87,All Levels
+173,JavaScript Game Development: Create Your Own Breakout Game,FALSE,0,10179,314,21,All Levels
+174,HTML and HTML5 For Beginners 2016,TRUE,200,563,178,32,All Levels
+175,A Very Complete Introduction To Laravel,TRUE,20,2320,114,43,All Levels
+176,"Learn to code, Become a Web Developer and Master JavaScript!",TRUE,200,2353,47,91,All Levels
+177,Serverless Architecture on Amazon Web Services,FALSE,0,13210,978,8,Intermediate Level
+178,jQuery Essentials: Learn the Fundamental of jQuery,TRUE,20,1004,43,40,All Levels
+179,Expert Guide : Mastering Functions in JavaScript !,TRUE,195,3015,30,19,All Levels
+180,Learn Angular 4 from Scratch,FALSE,0,8693,522,11,Beginner Level
+181,Discover HTML Essential guide to HTML how to create webpages,TRUE,85,8711,44,22,Beginner Level
+182,HTML5 and CSS3 for beginners: Create a Website from Scratch,TRUE,200,9945,101,43,Beginner Level
+183,Introduction to Web Development,TRUE,20,18143,159,15,Beginner Level
+184,jQuery Fundamentals Powerful Bootcamp for beginners,TRUE,150,13882,63,47,All Levels
+185,The Complete HTML & CSS Course - From Novice To Professional,TRUE,195,57422,874,84,All Levels
+186,JavaScript Basics Web Development Building Blocks,TRUE,95,10179,68,17,Beginner Level
+187,Bootstrap unleash the power faster & easier web development,TRUE,150,18101,88,68,All Levels
+188,JavaScript Design Patterns: 20 Patterns for Expert Code,TRUE,95,2789,243,26,Expert Level
+189,Fix Google's New 'Not Secure' Warning with Let's Encrypt!,TRUE,95,1437,24,20,Beginner Level
+190,JavaScript for Beginners Welcome to learning JavaScript,TRUE,50,10864,63,26,Beginner Level
+191,Benefits of Thinking Mobile First Future of Website Design,TRUE,75,14254,27,20,Beginner Level
+192,Javascript from Beginner to Advanced Level,TRUE,195,6134,160,50,Beginner Level
+193,AJAX Development,TRUE,20,7867,147,23,All Levels
+194,Interaction Design Specialist For Web Developers,TRUE,95,8594,37,18,All Levels
+195,PHP Security,TRUE,50,1892,147,24,All Levels
+196,The Bubble Course - Create Complete Web Apps without Coding,TRUE,30,3960,220,47,Beginner Level
+197,The Complete HTML5 & CSS3 Course Build Professional Websites,TRUE,195,10518,129,57,All Levels
+198,CSS Web Development Crash Course,TRUE,20,10008,53,26,Beginner Level
+199,Mastering DevOps,TRUE,100,1023,118,38,Intermediate Level
+200,Building Websites Create a fully functional Web contact form,TRUE,200,3392,29,19,Beginner Level
+201,Create a Dynamic User Registration Form from scratch,TRUE,100,7213,50,38,Beginner Level
+202,A 13 Hour SQL Server 2014 /ASP.NET/CSS/C#/jQuery Course,TRUE,35,4183,231,86,Intermediate Level
+203,HTML Workshop,TRUE,20,25854,306,17,All Levels
+204,Python for Beginners: Python Programming Language | Tutorial,TRUE,150,6153,125,84,Beginner Level
+205,Creating Animations using HTML5 Canvas,TRUE,25,4010,17,12,All Levels
+206,Bootstrap 4: Exploring New Features,TRUE,75,5022,38,13,All Levels
+207,Bootstrap 3 -> Profitable WordPress Theme Development!,TRUE,40,5547,80,40,All Levels
+208,Intro to Git,TRUE,20,2532,291,30,Beginner Level
+209,WordPress Domination #2: Leads & Scarcity,TRUE,95,2362,4,13,Beginner Level
+210,Learn How to Manage & Customize  Web Sites By Drupal CMS,TRUE,140,7741,9,36,All Levels
+211,Using Modern JavaScript Today,TRUE,50,1658,185,68,Intermediate Level
+212,Up and Running with jQuery,FALSE,0,3324,138,19,All Levels
+213,Learn How To Build A Professional Web Site By Using Joomla,TRUE,70,7184,22,29,All Levels
+214,Power up HTML5 with JavaScript,TRUE,100,4442,23,28,Beginner Level
+215,Node Package Manager Course: Build and Publish NPM Modules,TRUE,30,7196,8,38,All Levels
+216,WordPress Look and Feel with Themes,TRUE,25,2371,10,12,Beginner Level
+217,PHP with Laravel for beginners - Become a Master in Laravel,TRUE,150,8496,1838,308,All Levels
+218,JavaScript 2017: Become Top Rated Web Developer,TRUE,115,1346,330,32,All Levels
+219,The Complete Web Developer Bootcamp - Beginner to Expert,TRUE,190,14103,1548,197,All Levels
+220,Full-Stack Web Apps with Meteor and React,TRUE,85,3295,531,162,All Levels
+221,Angular 4: From Theory to Practice & FREE E-Book,TRUE,200,4375,622,129,Intermediate Level
+222,The Complete Sass & SCSS Course: From Beginner to Advanced,TRUE,195,12021,660,41,All Levels
+223,Become a Certified Web Developer,TRUE,100,26673,1090,185,All Levels
+224,Become a Web Developer from Scratch,TRUE,120,69186,2408,197,All Levels
+225,Ultimate Angular 4 (previously Angular 2) with Bootstrap 4,TRUE,50,11384,1846,80,All Levels
+226,The Ultimate Beginner's Guide to Django,TRUE,200,2390,497,82,Beginner Level
+227,React JS - Mastering Redux,TRUE,100,7059,116,58,All Levels
+228,Professional Ruby on Rails Developer with Rails 5,TRUE,200,3179,214,174,All Levels
+229,"Ruby on Rails 5 - BDD, RSpec and Capybara",TRUE,200,1870,193,145,All Levels
+230,Back to School Web Development and Programming Bundle,TRUE,200,18170,117,779,Beginner Level
+231,Complete ASP NET MVC Web Development - Newbie to Ninja!,TRUE,195,6073,627,66,All Levels
+232,The Complete DevOps Engineer Course 2.0 - Java & Kubernetes,TRUE,195,5335,105,117,All Levels
+233,All about NodeJS,TRUE,50,8755,931,133,All Levels
+234,How To Create A Wordpress Website 2016 | NEW Divi Theme 3.0!,TRUE,40,4144,383,43,Beginner Level
+235,The Complete jQuery Course - From Beginner to Professional!,TRUE,200,6420,134,188,All Levels
+236,Build a complete Fiverr clone with Node + Algolia + Paypal,TRUE,30,1741,26,87,All Levels
+237,The Ultimate Web Development Course,TRUE,50,9881,329,136,All Levels
+238,React From The Ground Up,TRUE,150,3252,401,62,All Levels
+239,Javascript for Beginners Learn by Doing Practical Exercises,TRUE,100,5089,685,29,All Levels
+240,8 Beautiful Ruby on Rails Apps in 30 Days & TDD - Immersive ,TRUE,100,5962,466,132,All Levels
+241,Wordpress Website Mastery 2017,FALSE,0,5181,64,22,Beginner Level
+242,How To Make an eCommerce Website With Wordpress 2017,FALSE,0,3493,43,26,Beginner Level
+243,Mastering ASP.NET MVC 5 From Scratch Using C#,TRUE,50,417,65,109,All Levels
+244,Start Web Development with GIS Map in JavaScript,TRUE,60,1599,26,49,All Levels
+245,Learn to Build Websites using Twitter Bootstrap,FALSE,0,15134,523,12,All Levels
+246,Web Development Tools the Pros Use: Code Productivity Hacks,TRUE,30,2596,11,39,Beginner Level
+247,WordPress : An Overview,TRUE,45,1783,16,15,Beginner Level
+248,Create Startup Landing Page with Viral Marketing Strategies,FALSE,0,12974,120,13,Beginner Level
+249,JavaScript : JavaScript Awesomeness,TRUE,25,785,20,25,Beginner Level
+250,Mastering CSS 3.0 Selectors,FALSE,0,4115,63,13,Intermediate Level
+251,WordPress Backup And Restore Fundamentals,FALSE,0,13242,131,24,Intermediate Level
+252,Learn HTML and CSS to make a Website,TRUE,20,1154,12,71,Beginner Level
+253,1 Hour HTML,TRUE,200,16212,514,20,Beginner Level
+254,Angular 2 Crash Course with TypeScript,TRUE,100,16409,589,74,All Levels
+255,Boost your website speed without any coding!,TRUE,50,1337,28,12,All Levels
+256,Professional Rails Code Along,TRUE,40,1469,237,120,Intermediate Level
+257,ASP.NET Web API 2 Hands-On,TRUE,20,2660,276,16,All Levels
+258,Create a MEAN App by Example - Full Stack Course,TRUE,50,421,26,33,Intermediate Level
+259,The Original Complete Web Developer Course.,TRUE,20,31070,742,195,Beginner Level
+260,Angular 2 From The Ground Up,TRUE,30,1737,471,87,All Levels
+261,Complete Web Development Course + Building 5 Websites!,TRUE,200,11492,174,118,All Levels
+262,WP Plugin Development - Build your own plugin!,TRUE,200,5439,22,24,Beginner Level
+263,Sass: From Beginner to Advanced,TRUE,40,8059,231,39,All Levels
+264,Build Flat Responsive Website from Scratch - Complete Course,TRUE,35,12105,144,54,All Levels
+265,Wordpress for Beginners - Build a Live Website from Scratch,TRUE,20,3877,92,15,Beginner Level
+266,"Essential JavaScript, jQuery and AngularJS Training",TRUE,30,2919,136,70,Intermediate Level
+267,The Pro Ruby on Rails Starter,TRUE,45,2409,90,19,Beginner Level
+268,Unit Testing AngularJS: Build Bugfree Apps That Always Work!,TRUE,25,2083,213,23,All Levels
+269,WordPress Blog : Create a WordPress Website for Beginners,TRUE,20,2076,8,20,Beginner Level
+270,Introduction to HTML5 Canvas basics of drawing,TRUE,200,2918,16,17,Beginner Level
+271,"Thoughtful Web Development Course: HTML, Vue.js, PHP, MySQL",TRUE,200,842,144,536,All Levels
+272,Kids Coding - Beginners CSS,TRUE,100,7130,30,17,All Levels
+273,PHP & MySQL - Learn The Easy Way. Master PHP & MySQL Quickly,TRUE,50,5549,92,143,All Levels
+274,Learning Path: Magento: Master and Test Magento 2 with Ease,TRUE,200,155,9,37,Expert Level
+275,The Complete hapiJS Course - Go From Beginner To Advanced!,TRUE,195,1697,64,54,All Levels
+276,Ruby On Rails For Web Development,TRUE,195,2526,185,24,Beginner Level
+277,Create eye-catching WordPress website from scratch,TRUE,30,2342,15,19,Beginner Level
+278,Become A Web Developer And Seller - Build Websites With HTML,TRUE,200,21730,61,35,Beginner Level
+279,WordPress Tips and Tricks,TRUE,200,1117,10,37,Intermediate Level
+280,HTML Tutorials : HTML Code for Website Creating,TRUE,20,2401,15,27,All Levels
+281,Complete HTML5 and CSS3 Course +1 Start to Finish Project,TRUE,200,3887,81,94,All Levels
+282,Web Development With HTML CSS BOOTSTRAP JQUERY for Beginners,TRUE,35,1156,4,59,Beginner Level
+283,HTML5 Specialist: Comprehensive HTML5 Training,TRUE,100,1385,188,83,All Levels
+284,CSS and CSS3 For Absolute Beginners,TRUE,75,10890,212,33,Beginner Level
+285,Build a Complete JQuery Plugin (Image Pop-up Dialog),TRUE,20,1126,10,12,All Levels
+286,How to create HTML Forms,TRUE,30,3652,60,7,Beginner Level
+287,ReactJS and Flux: Learn By Building 10 Projects,TRUE,60,1723,258,60,All Levels
+288,How To Make A Business Website In 1 Day With Wix FAST & EASY,TRUE,20,3759,24,25,Beginner Level
+289,PHP Date and Time Course by Edwin Diaz,TRUE,40,1653,53,14,All Levels
+290,Start Your Own Forum Website in 15 Minutes ,TRUE,40,5387,38,15,All Levels
+291,Hit the ground running with AngularJS with Dion Yang,TRUE,100,4563,49,13,All Levels
+292,Learn CSS Transition and Animation ,TRUE,100,3757,28,20,All Levels
+293,Learn JavaScript from scratch,TRUE,20,4193,92,44,Beginner Level
+294,WordPress for Beginners - Tutorial - From Novice to Know-How,TRUE,20,3694,48,39,Beginner Level
+295,RESTful API with Laravel,TRUE,45,1905,228,57,All Levels
+296,Learn Ruby on Rails for Absolute Beginners,TRUE,195,2875,20,36,All Levels
+297,JavaScript Tutorial,TRUE,180,613,93,37,All Levels
+298,Shopping Cart Website from Scratch Ecommerce,TRUE,200,633,39,54,Beginner Level
+299,Learn By Example: Angular JS,TRUE,50,1515,32,60,All Levels
+300,The Complete front end web developer Bootcamp - 14 projects,TRUE,200,900,129,126,All Levels
+301,WordPress LMS: E-Learning Website Made Easy,TRUE,20,2382,22,16,All Levels
+302,Create An HTML5 Video Player From Scratch,FALSE,0,32260,1005,12,Beginner Level
+303,In Depth Web Development Made Easy,TRUE,25,3249,27,60,All Levels
+304,Jquery :basics for beginners,TRUE,50,1274,34,15,All Levels
+305,Web Development By Doing: HTML / CSS From Scratch,FALSE,0,72932,2575,21,Beginner Level
+306,Build Your First Website in 1 Week with HTML5 and CSS3,FALSE,0,120291,5924,30,Beginner Level
+307,"ASP.NET Core MVC, Quick and Practical",TRUE,20,387,5,30,Intermediate Level
+308,Better way towards CSS using Less and Sass,TRUE,20,2227,44,26,All Levels
+309,JavaScript Complete for beginners with real world Apps,TRUE,120,2652,33,40,All Levels
+310,Creating a Responsive HTML Email,TRUE,20,2520,183,34,All Levels
+311,Angular 2 Demystified,TRUE,20,3150,69,49,All Levels
+312,Learn HTML Fast and Easy!,TRUE,20,4011,24,17,Beginner Level
+313,How To Setup a Micro-Blog in 3 Easy Steps,TRUE,25,6937,22,7,All Levels
+314,Ruby on Rails for Complete Beginners,TRUE,35,4839,129,84,Beginner Level
+315,Wordpress for Non-Technical People,TRUE,150,2346,10,65,Beginner Level
+316,ASP NET CORE - ANGULAR 2 E-Commerce App,TRUE,200,897,129,171,All Levels
+317,Introductory JavaScript Made Easy Training Tutorial,TRUE,20,9381,138,131,Beginner Level
+318,Become a Heroku Rails Ninja: Expert Level Deployment Tools,TRUE,50,7090,52,30,Intermediate Level
+319,Complete RESPONSIVE Website Design with HTML5 & CSS3,TRUE,20,2204,6,97,Beginner Level
+320,Pimcore Developer: Implement a Blog from a Bootstrap Theme,TRUE,95,1212,15,39,All Levels
+321,Inspirational Web Development - A Beginner Approach -,TRUE,20,5328,47,28,Beginner Level
+322,"Learn HTML, A practical guide from scratch to HTML 5",TRUE,100,5715,52,31,All Levels
+323,JavaScript Tutorial: Learn JavaScript Code for Beginners,TRUE,20,2074,14,22,Beginner Level
+324,Website Secrets: Get a Gorgeous Website on the Cheap,TRUE,50,12328,15,32,All Levels
+325,Ultimate WordPress Plugin Course,TRUE,100,4537,415,49,All Levels
+326,PHP for Beginners: How to Build an E-Commerce Store,TRUE,100,5117,463,138,All Levels
+327,"Build Realtime Apps | React Js, Golang & RethinkDB",TRUE,60,3854,482,48,All Levels
+328,"Master Electron: Desktop Apps using HTML, JavaScript & CSS",TRUE,165,1902,224,47,Intermediate Level
+329,The Complete Web Developer Masterclass: Beginner To Advanced,TRUE,195,37141,1813,316,All Levels
+330,Mastering Micro Services Using Java Spring Boot,TRUE,195,1649,34,25,All Levels
+331,How to Create A Website: An HTML Tutorial and CSS Tutorial,TRUE,65,3012,260,330,All Levels
+332,The Advanced Web Developer Course,TRUE,100,6890,99,90,Intermediate Level
+333,Projects in MongoDB - Learn MongoDB Building Projects,TRUE,50,4628,247,93,All Levels
+334,Learning JavaScript Programming Tutorial. A Definitive Guide,TRUE,50,17113,380,93,All Levels
+335,"The Complete JavaScript, HTML and CSS Tutorial For Beginners",TRUE,35,244,44,21,Beginner Level
+336,"Build Modern Responsive Website With HTML5, CSS3 & Bootstrap",TRUE,195,1472,210,110,All Levels
+337,The Complete JavaScript Course For Web Development Beginners,TRUE,195,31499,450,46,All Levels
+338,Email Marketing: Send Unlimited Emails via Own Mail Server,TRUE,35,3539,43,20,Beginner Level
+339,Getting started with JavaScript,TRUE,200,1415,17,23,Beginner Level
+340,Learn the basics of the Web development: Coding Tactics,TRUE,40,2965,17,30,Beginner Level
+341,RESTful API with Laravel 5.4: Definitive Guide,TRUE,145,655,95,195,All Levels
+342,Learn AngularJS Step By Step,TRUE,20,18777,1112,21,Intermediate Level
+343,Learn React : The World's Most Lucrative JavaScript Library,TRUE,50,1591,99,74,Beginner Level
+344,Master Regular Expressions from scratch - All languages,TRUE,70,1925,27,38,All Levels
+345,Try AngularJS: Beginner's Guide to Front End Web Development,TRUE,50,16926,126,33,Beginner Level
+346,JavaScript Step by Step how to apply it to your web pages,TRUE,100,13406,78,44,All Levels
+347,Explore JavaScript Beginners Guide to Coding JavaScript,TRUE,200,5739,26,29,Beginner Level
+348,Learn Web Scraping with Node.js,TRUE,75,16731,137,10,All Levels
+349,Getting Started with WordPress 2016,TRUE,20,1613,21,20,Beginner Level
+350,Learn HTML5 Programming From Scratch,FALSE,0,268923,8629,45,All Levels
+351,Getting Started with LESS - Beginner Crash Course,TRUE,25,1780,69,21,Beginner Level
+352,Master ECMAScript 2015 (ES6),FALSE,0,7438,441,37,All Levels
+353,Learn to Setup Websites from Scratch,FALSE,0,21087,154,24,Beginner Level
+354,Create Fast RESTful APIs with Lumen and Homestead by Laravel,TRUE,60,1157,105,31,All Levels
+355,"Build Modern Websites Quick With HTML,CSS and Bootstrap",TRUE,20,912,17,48,Beginner Level
+356,Twitter Integration customize Tweets with developer API,TRUE,115,2039,7,19,All Levels
+357,Build a Responsive Website with a Modern Flat Design,FALSE,0,16527,354,17,All Levels
+358,The Ultimate WordPress Boot Camp: Build 7 Websites,TRUE,125,1000,74,140,Intermediate Level
+359,Master the Basics of HTML5 & CSS3: Beginner Web Development,FALSE,0,26541,750,38,Beginner Level
+360,Become A Full Stack Web Developer in 14 Days,TRUE,195,467,20,126,All Levels
+361,Projects In ReactJS - The Complete React Learning Course,TRUE,50,947,108,56,Intermediate Level
+362,Beginning Web development Learn the basics of HTML,TRUE,95,9832,71,59,Beginner Level
+363,Step by Step Build Your Template by Bootstrap 4 from scratch,TRUE,80,2184,15,24,Beginner Level
+364,Hosting your static website on Amazon AWS S3 service,TRUE,20,2853,47,16,Beginner Level
+365,JavaScript Rockstar How to create Incredible Useful code,TRUE,75,16590,51,27,All Levels
+366,Spring Core DevOps on AWS,TRUE,100,1626,115,78,Intermediate Level
+367,How to Create a Website Without Coding - WordPress 2016,TRUE,195,9056,96,31,Beginner Level
+368,PHP Graphic Techniques: CAPTCHA/ Create a verification code,TRUE,20,8320,73,11,All Levels
+369,Introductory To HTML and CSS,TRUE,50,4106,112,15,Beginner Level
+370,Learn how to convert PSD to HTML and CSS responsive,TRUE,30,5324,52,14,All Levels
+371,PHP User Login Registration Script With All Features,TRUE,200,5603,46,47,All Levels
+372,AJAX : Let's build a COOL project,TRUE,70,4183,292,38,All Levels
+373,Advanced WordPress Topics: Post Types Taxonomies & Metaboxes,TRUE,95,301,44,91,Intermediate Level
+374,Laravel Homestead,FALSE,0,3883,110,9,Beginner Level
+375,The Complete TypeScript Programming Guide for Web Developers,TRUE,40,236,31,35,Intermediate Level
+376,JavaScript with BackboneJS and Bootstrap CSS - Advanced,TRUE,25,1758,37,16,Intermediate Level
+377,Ruby on Rails Tutorial: Learn 6 Ruby on Rails SEO Techniques,TRUE,200,1266,16,21,All Levels
+378,XML DOM :basics for beginners,TRUE,35,920,1,7,All Levels
+379,Learn HTML Basics From Scratch,FALSE,0,5004,52,21,All Levels
+380,Byte-Sized-Chunks: Dynamic Prototypes in Javascript,TRUE,20,880,6,24,All Levels
+381,Build Websites from Scratch with Squarespace,TRUE,50,342,53,60,Beginner Level
+382,Introduction to web programming for GIS applications,TRUE,100,205,38,97,Beginner Level
+383,Java Spring Security,TRUE,40,527,63,11,Intermediate Level
+384,Responsive Html5 Theme Development,TRUE,20,1517,4,12,All Levels
+385,What’s New in Bootstrap 4,TRUE,20,130,14,20,All Levels
+386,ReactJS Course: Learn JavaScript Library Used by Facebook&IG,TRUE,50,1018,33,41,Intermediate Level
+387,Building a Ruby on Rails Application with Neo4j,FALSE,0,4830,38,7,Intermediate Level
+388,Sara Learns to Code.  Making an App from Scratch,TRUE,60,402,20,35,Beginner Level
+389,Ajax  for Beginners: A Very Basic Introduction,TRUE,65,755,5,18,Beginner Level
+390,Wordpress Essentials: Useful Plugins,TRUE,25,1087,7,24,Beginner Level
+391,Django by Example,TRUE,125,170,21,78,Expert Level
+392,Build A Great Wordpress Website For Your Business in 2 Hours,TRUE,35,1054,4,26,All Levels
+393,Wordpress on AWS: The Easy way to AWS for Free Fast hosting ,TRUE,40,245,23,36,All Levels
+394,Mastering TypeScript,TRUE,95,353,34,41,Expert Level
+395,Mastering AngularJS UI Development,TRUE,95,464,26,22,Expert Level
+396,Custom Theme Creation for WordPress using HTML5 and CSS3,TRUE,35,298,20,24,Beginner Level
+397,Create a PHP Contact Form in Bootstrap,TRUE,20,2238,65,12,All Levels
+398,Introduction To Data Analytics Using Microsoft Power BI,TRUE,45,1764,33,16,All Levels
+399,HTML Made Simple For Beginners: Create a One Page Website,TRUE,65,3380,50,16,Beginner Level
+400,The Complete Web Developer Masterclass: Beginner To Advanced,TRUE,20,1030,11,30,All Levels
+401,Website Builder Software Previews,TRUE,25,1406,12,20,Beginner Level
+402,Learn How to Create Your Own Social Network,TRUE,50,4732,5,14,All Levels
+403,"Learn By Example: The Foundations of HTML, CSS & Javascript",TRUE,50,1724,72,94,All Levels
+404,JavaScript manipulation of the DOM Document Object Model,TRUE,20,1618,46,20,Beginner Level
+405,Create Jekyll blog and host it on Github like a Ninja,TRUE,20,5056,74,11,Beginner Level
+406,Learn React JS from scratch,TRUE,115,1562,42,34,Beginner Level
+407,Web Security: Common Vulnerabilities And Their Mitigation,TRUE,50,1547,30,56,All Levels
+408,PHP for Beginners,TRUE,40,2626,95,135,Beginner Level
+409,Make a professional website - 30 Day Guarantee. Discounted!,TRUE,20,11167,34,13,All Levels
+410,Symfony 3: Build a PHP Application with Symfony,TRUE,20,466,11,25,All Levels
+411,Learn ASP.Net Web API 2 for Absolute Beginner,TRUE,30,1355,14,29,All Levels
+412,Build a Website in 30 Minutes,TRUE,95,5065,40,12,Beginner Level
+413,Google Blogger : How to Create a Blog,TRUE,20,1763,17,30,Beginner Level
+414,How to Make a Website Without Coding- WordPress & Web Skills,TRUE,30,6413,107,123,All Levels
+415,Learn WCF And Web APIs From Scratch,TRUE,50,5398,358,83,Intermediate Level
+416,How To Build A Website From Scratch + Blogging Blueprint,TRUE,20,7017,37,28,All Levels
+417,Learn To Create Different Website Layouts & Media Queries ,TRUE,195,6510,45,22,All Levels
+418,Build Sign Up and Login Forms With Bootstrap Modal,TRUE,20,1898,19,31,All Levels
+419,"Build a Real Time web app in node.js , Angular.js, mongoDB",TRUE,20,3299,166,34,All Levels
+420,Superb jQuery Course - Become Certified jQuery Developer,TRUE,95,817,6,32,All Levels
+421,How To Build A Facebook Messenger Chat Bot From Scratch,TRUE,120,1798,20,24,Beginner Level
+422,"Build Your Own Calculator App with Javascript, HTML5 & CSS",TRUE,50,3688,49,11,All Levels
+423,The Complete WordPress Development & Customization Course,TRUE,100,1611,165,157,Expert Level
+424,HTML CSS Easy steps to create a web template from scratch,TRUE,200,11574,78,15,Beginner Level
+425,Learn jQuery AJAX in 1 hour,TRUE,195,2547,62,18,Intermediate Level
+426,Develop Competitive Plugins for WordPress and WooCommerce,TRUE,150,2063,18,12,All Levels
+427,Get Results - Core Principles of Web Development Tricks Tips,TRUE,75,22355,54,26,All Levels
+428,JSON Faster Sleeker & Easier Discover the benefits learn it,TRUE,200,8577,69,31,All Levels
+429,Get to know HTML Learn HTML Basics,TRUE,200,10674,102,26,Beginner Level
+430,Ultimate Css & JQuery Form Designing From Beginner to Expert,TRUE,115,783,5,13,All Levels
+431,PHP: Complete Registration and Login with Email Verification,TRUE,20,12781,145,22,All Levels
+432,JavaScript from Beginner to Expert,TRUE,125,5484,439,92,All Levels
+433,Build a website HTML5 CSS3 Beginner Course,TRUE,150,7884,44,28,Beginner Level
+434,Learn Ruby on Rails: Stripe Payment Processing,TRUE,40,15724,33,29,All Levels
+435,WordPress For Beginners | No Coding Required,TRUE,20,3106,31,13,All Levels
+436,jQuery For Beginners : A Basic Introduction,TRUE,65,6293,165,8,Beginner Level
+437,WordPress Plugins and Widgets,TRUE,40,8711,29,12,Beginner Level
+438,PHP Essential How to create build Amazing websites with PHP,TRUE,75,8067,30,44,Beginner Level
+439,HTML CSS JavaScript: Most popular ways to code HTML CSS JS,TRUE,170,9332,172,33,All Levels
+440,Bootstrap 3 Beginners: Create a Professional Landing Page,TRUE,20,3271,278,54,Beginner Level
+441,Introduction to Node.js for Beginners,TRUE,125,1367,17,58,Beginner Level
+442,Introduction to Coding with Ruby,TRUE,45,5077,126,66,Beginner Level
+443,Complete PHP and MySql Course: From Beginner to Professional,TRUE,200,6508,137,90,All Levels
+444,Angular JS Essentials,TRUE,195,4687,99,24,Beginner Level
+445,How To Setup Web Hosting,FALSE,0,11758,242,8,Beginner Level
+446,"Web Application Development using Redis, Express, and Socket",TRUE,200,300,16,66,Beginner Level
+447,How to Start a WordPress Blog - Complete Beginners Guide!,FALSE,0,3784,85,32,Beginner Level
+448,CSS3 Gradients for Web Designers,TRUE,20,1209,9,21,All Levels
+449,Learn ASP NET MVC 5 step by step,TRUE,20,1428,91,32,Intermediate Level
+450,Tumult Hype Pro Basics: HTML5 Animations Made Easier,TRUE,50,716,32,57,Beginner Level
+451,Web Hosting Set Up and WordPress Installation For Beginners,FALSE,0,12563,239,11,Beginner Level
+452,Ruby on Rails 4---A Test-Driven Approach,TRUE,100,1518,55,122,Beginner Level
+453,AJAX :basics for beginners,TRUE,35,1241,23,9,All Levels
+454,Let's JavaScript!  Code a calculator,TRUE,35,380,10,30,Beginner Level
+455,JavaScript from Beginner to Advanced,TRUE,195,395,18,57,All Levels
+456,WordPress Theme Academy with Bootstrap,TRUE,20,1169,110,64,Intermediate Level
+457,Building a eCommerce Startup in 4 Hours [Livestream],TRUE,50,1114,8,23,Beginner Level
+458,Responsive PHP Registration Form: From Scratch,TRUE,95,5738,9,35,All Levels
+459,A-Frame WebVR Programming Tutorial Series (Virtual Reality),TRUE,40,6648,16,22,Beginner Level
+460,Learn Bootstrap And Make Responsive Websites,TRUE,25,1605,10,32,All Levels
+461,HTML Web Development Crash Course,TRUE,20,4848,33,17,Beginner Level
+462,Bootstrap Basics: Program Responsive Websites,TRUE,75,4743,393,28,All Levels
+463,Projects with JSON and APIs,TRUE,20,1520,34,23,All Levels
+464,Web Design HTML CSS How to Create a Website from Scratch,TRUE,50,3601,28,22,Beginner Level
+465,"Create Complete Sign up System using PHP, jQuery and Ajax",TRUE,200,4033,40,25,All Levels
+466,Adobe Flash for Beginners - Build Flash Website From Scratch,TRUE,200,17071,17,15,All Levels
+467,Learn Complete WordPress for Building a Professional Sites,TRUE,80,13708,92,62,All Levels
+468,Devtools 2017: Beginner to Expert w/ Chrome Developer Tools,TRUE,125,430,54,39,All Levels
+469,Bootstrap Essential Training - Create Your Very Own Website,TRUE,20,2643,34,83,All Levels
+470,Angular 2 Jump Start With Typescript,TRUE,20,1731,90,74,All Levels
+471,Learn Plugin Development in WordPress By Building  Projects,TRUE,60,1313,121,62,All Levels
+472,"Build Your Startup with No Coding (Design, Develop & Ship)",TRUE,30,775,245,82,All Levels
+473,The Web Developers Guide: Learn HTML & CSS Fundamentals,TRUE,20,2243,27,97,All Levels
+474,Learn PHP Programming for Absolute Beginners - Lite,TRUE,20,2749,62,7,All Levels
+475,Learn Drupal 8 - With a Live Project,TRUE,55,2012,15,59,All Levels
+476,Supreme NodeJS Course - For Beginners,TRUE,200,1080,37,76,All Levels
+477,CSS3 for beginners,TRUE,195,3831,15,25,Beginner Level
+478,Javascript for beginners,TRUE,75,2071,57,14,Beginner Level
+479,Become a Bootstrap Expert: Build 20 Layouts!,TRUE,35,2755,57,179,All Levels
+480,PHP : Learn to upload files to Amazon S3 and use CloudFront,TRUE,50,1216,36,28,All Levels
+481,PHP MySQL: Learn PHP MySQL with Project,TRUE,20,2314,77,25,All Levels
+482,How to Set Up a Self-Hosted Wordpress Website in 30 Minutes,FALSE,0,8770,261,13,Beginner Level
+483,Projects in Django and Python,TRUE,60,1764,53,28,All Levels
+484,"Create, Update and Manage Your Own Website Using Drupal 7",TRUE,120,2837,68,49,All Levels
+485,Learn HTML - The programming language to build a webpage!,TRUE,25,1655,39,19,Beginner Level
+486,Learn To Program JavaScript (in ten easy steps),TRUE,75,2721,96,44,Beginner Level
+487,Bootstrap :basics for beginners,TRUE,40,1152,20,14,All Levels
+488,Introduction to CSS Development,FALSE,0,15493,415,25,Beginner Level
+489,PHP :basics for beginners,TRUE,45,1562,4,12,All Levels
+490,Beginning Oracle WebLogic for Administrators,FALSE,0,9786,989,7,Beginner Level
+491,Build an HTML5 and CSS3 Website in 35 Minutes,TRUE,20,1904,25,17,Beginner Level
+492,Angular 2 Routing: Up And Running,FALSE,0,3357,84,13,Intermediate Level
+493,Advanced Prezi: Make Amazing Presentations ,TRUE,30,2200,25,12,All Levels
+494,1 hour jQuery,TRUE,100,5456,133,25,Beginner Level
+495,The WpFASTER WordPress Speed Optimization Master Course,TRUE,175,2134,215,55,All Levels
+496,How to Build Your Own Website with WordPress: A Step-by-Step Guide ,TRUE,95,4675,15,56,All Levels
+497,Build Apps with ReactJS: The Complete Course,TRUE,40,1433,145,34,All Levels
+498,Learn SASS: from beginner to expert,TRUE,20,1734,9,13,Beginner Level
+499,The complete HTML5 course,TRUE,20,3461,11,23,Beginner Level
+500,Create a Responsive Website with Bootstrap 3,TRUE,50,4076,39,22,Intermediate Level
+501,Lerning PHP by building website,TRUE,185,567,63,34,All Levels
+502,Learn PHP Object Oriented Features with Simple Examples,TRUE,20,1723,28,7,All Levels
+503,Crash Course - Learn to Create a PHP MVC Framework,TRUE,50,1282,117,12,All Levels
+504,JSON :basics for beginners,TRUE,45,2052,18,8,All Levels
+505,CSSCasts; CSS libraries Plugins Tips & Tricks for Developers,TRUE,200,1874,40,224,All Levels
+506,Complete Guide to Front-End Web Development and Design,TRUE,200,1119,111,204,Beginner Level
+507,"Build Ajax Web Apps with Laravel 5.2, Bootstrap and jQuery",TRUE,100,1023,131,44,All Levels
+508,Javascript for Beginners,TRUE,20,3697,195,48,All Levels
+509,MongooseJS Essentials - Learn MongoDB for Node.js,FALSE,0,21682,1106,8,Beginner Level
+510,Regular Expressions for Beginners - Universal,TRUE,100,1975,141,36,All Levels
+511,Learn Redis from Scratch,TRUE,40,553,84,31,Intermediate Level
+512,WordPress Plugin Development -> Deep dive discovery!,TRUE,40,2650,19,39,All Levels
+513,Learn Ajax and jquery with PHP,TRUE,20,2964,8,9,Beginner Level
+514,Create a business website with WordPress,TRUE,50,1624,31,38,All Levels
+515,DesktopServer : Install WordPress Locally  - Work Anywhere!,TRUE,65,1640,22,29,Beginner Level
+516,Understand PHP Arrays and HTTP Request in a Better Way,TRUE,35,1627,38,7,All Levels
+517,Mastering CSS,TRUE,95,1815,249,42,Expert Level
+518,The Complete Wordpress Theme Development Guide,TRUE,25,1011,2,19,Beginner Level
+519,The Complete HMTL5 Course - Go From Beginner To Advanced!,TRUE,95,2430,15,36,All Levels
+520,Learn Jquery from Scratch 2-Hour Training ,TRUE,20,5318,56,13,Beginner Level
+521,How to Create a Wordpress Website from Scratch - No Coding,TRUE,20,7018,28,38,All Levels
+522,Learn PHP CodeIgniter Framework with AJAX and Bootstrap,TRUE,75,1634,52,21,All Levels
+523,The Complete Guide to JavaScript Development,TRUE,110,3590,36,104,All Levels
+524,Basic HTML CSS and Web Design,TRUE,30,4030,92,46,Beginner Level
+525,Build Professional WordPress Website,TRUE,145,4020,95,52,All Levels
+526,Ultimate CSS3 Course - From Beginners To Professional,TRUE,95,2635,25,30,All Levels
+527,Code & Grow Rich:  Earn More As An Entrepreneur Or Developer,TRUE,200,7211,52,491,All Levels
+528,Learn by Example : ReactJS,TRUE,50,1496,37,74,Beginner Level
+529,React.js Quickly: Developing Scalable Web User Interfaces,TRUE,50,4447,76,24,Intermediate Level
+530,JavaScript - Tricks and Workarounds,TRUE,100,1410,134,67,All Levels
+531,Kids Coding - Beginner HTML,TRUE,20,6628,53,19,Beginner Level
+532,Learn PHP from scratch!!,TRUE,25,1908,12,17,Beginner Level
+533,PHP with PDO - ULTIMATE Crash Course,TRUE,50,1248,171,18,All Levels
+534,JavaScript for beginners with live examples,TRUE,195,4587,46,49,Beginner Level
+535,Bootstrap 3 Introduction : Create RESPONSIVE Websites Fast,TRUE,50,2351,302,16,All Levels
+536,Laravel(5.2) PHP Framework  Jump Start for beginners,TRUE,20,3898,95,32,Beginner Level
+537,Professional WordPress Theme Development For 2017,TRUE,20,3185,102,94,All Levels
+538,Learn Laravel PHP Framework Building Multi User SEO Blog APP,TRUE,100,557,92,133,All Levels
+539,Javascript Specialist,TRUE,200,408,39,80,Beginner Level
+540,Write PHP Like a Pro: Build a PHP MVC Framework From Scratch,TRUE,70,1703,435,65,All Levels
+541,JavaScript Intro to learning JavaScript web programming,TRUE,20,17554,94,16,Beginner Level
+542,Crash Course: Fundamentals Of HTML & CSS From Scratch.,TRUE,20,7368,216,52,Beginner Level
+543,"Laravel, the complete guide with real world projects",TRUE,200,676,119,125,All Levels
+544,VueJS V1 Introduction to VueJS JavaScript Framework,TRUE,200,3632,28,31,Beginner Level
+545,HTML CSS: Essential steps to learn HTML CSS,TRUE,145,10576,154,23,Beginner Level
+546,Learn HTML 5 in 1 hour,TRUE,100,11643,169,21,Beginner Level
+547,Learn Html5 & CSS3 from scratch,TRUE,20,13960,239,19,All Levels
+548,Responsive Web Design: Made Easy,TRUE,195,5085,106,27,All Levels
+549,Parse Server: From Front End to Full Stack,TRUE,200,1130,162,66,Intermediate Level
+550,Codeigniter: How to use Codeigniter that drives knowledge,TRUE,150,14606,235,21,All Levels
+551,jQuery for Beginners - Create Website Animations Easily,TRUE,100,2971,285,28,All Levels
+552,How to Build Chat Bots: From Beginner to Intermediate,TRUE,140,2814,107,35,All Levels
+553,Web Development with BootStrap - 16 Instant Themes Included!,TRUE,40,1355,45,27,All Levels
+554,Install a Wordpress Theme the Correct Way & Charge Others,TRUE,20,2335,13,18,All Levels
+555,Coding for Entrepreneurs Basic,FALSE,0,161029,279,27,Beginner Level
+556,The CSS and CSS3 Crash Course,TRUE,150,2051,99,76,All Levels
+557,Build a Business or Personal Website Using Wordpress,TRUE,200,1069,12,61,Beginner Level
+558,Learn By Example: PHP For Dynamic Websites,TRUE,50,1439,10,77,Beginner Level
+559,Learn ReactJS: Code Like A Facebook Developer,TRUE,20,1948,72,45,Intermediate Level
+560,Learn to Build Web Apps using D3JS,TRUE,40,841,99,29,All Levels
+561,How to create awesome website and e-commerce in 1 hour,TRUE,20,937,4,10,All Levels
+562,Joomla for Beginners - Learn how to build a website with CMS,TRUE,95,583,7,35,Beginner Level
+563,Learning Drupal 8,TRUE,50,577,97,101,All Levels
+564,Learn How To Build a Web Application Without Coding,FALSE,0,9364,311,10,Beginner Level
+565,Rock Solid Wordpress Security - Secure Web Development,FALSE,0,5052,92,23,All Levels
+566,Mastering JavaScript,TRUE,95,694,39,39,Expert Level
+567,PHP Laravel 5:Creating a CRUD application,TRUE,45,511,12,7,All Levels
+568,XQUERY :basics for beginners,TRUE,40,937,2,6,All Levels
+569,PHP Development with the Laravel Framework,TRUE,50,1611,24,20,All Levels
+570,WordPress Development - Themes and Plugins Complete Guide,TRUE,200,103,11,72,All Levels
+571,Basic JavaScript: Build 4 Basic JavaScript Projects,TRUE,40,670,33,37,Beginner Level
+572,HTML and CSS for Beginning Web Developers,TRUE,100,1606,28,73,Beginner Level
+573,Popular JavaScript Framework:Learn The Language Of Angular 2,TRUE,200,260,22,64,Beginner Level
+574,The Ultimate Guide to the Best WordPress Plugins Part 1,TRUE,50,122,10,116,All Levels
+575,XSLT :basics for beginners,TRUE,35,877,6,7,All Levels
+576,The Complete Wordpress Plugin Development Course - 8 Plugins,TRUE,200,1215,58,33,All Levels
+577,JSON Crash Course for Beginners,TRUE,45,3323,90,7,Beginner Level
+578,You can create Incredible Websites with HTML CSS learn how,TRUE,100,11892,50,28,All Levels
+579,JavaScript Tricks how to create code projects from scratch,TRUE,75,15106,31,16,All Levels
+580,The Sass Course! Learn Sass for Real-World Websites,TRUE,95,975,141,18,All Levels
+581,Web Design How to Create a Website HTML CSS Bootstrap,TRUE,75,5263,29,29,Beginner Level
+582,Master Angular 4 by Example - Build 7 Awesome Apps!,TRUE,195,596,32,84,All Levels
+583,Create A Custom Responsive WordPress Website For A Client,TRUE,95,7517,89,47,All Levels
+584,Mastering HTML5 Programming - The Easier Way,TRUE,75,21653,138,35,All Levels
+585,How to Launch Your Own Website Builder Service,TRUE,20,9028,87,12,Beginner Level
+586,Getting Started with HTML,TRUE,40,7375,52,17,Beginner Level
+587,Spring Framework 4 (Java Enterprise JEE) with AngularJS,TRUE,95,5177,318,70,All Levels
+588,Build A Weather App With Ajax Using Open Weather Map API,TRUE,20,6548,44,38,All Levels
+589,Essentials of JavaScript Practice Coding Exercises Tips,TRUE,80,28125,115,21,Beginner Level
+590,Learn and Earn with HTML & CSS,TRUE,20,9349,206,69,All Levels
+591,Get started Creating Websites Everything you need provided,TRUE,100,14260,44,43,Beginner Level
+592,JavaScript in Action JavaScript Projects,TRUE,150,7720,58,17,Beginner Level
+593,Modern Web Development with Laravel 5.2 (PHP Framework),TRUE,120,2142,536,71,All Levels
+594,Programming for Entrepreneurs - JavaScript,TRUE,200,12873,106,38,Beginner Level
+595,Create a Website from Scratch using HTML CSS step by step,TRUE,75,12882,95,20,Beginner Level
+596,Complete AJAX Course: Learn AJAX Techniques Using Bootstrap,TRUE,195,12368,89,26,All Levels
+597,Learn jQuery by Example Course,TRUE,170,8625,94,73,Beginner Level
+598,Bootstrap 4 Theme Development Masterclass,TRUE,150,2641,28,15,All Levels
+599,Wordpress Theme Development for Beginners,TRUE,20,1052,14,47,All Levels
+600,Web Design Creating websites from scratch,TRUE,75,13920,64,28,Beginner Level
+601,HTML Learning the Basics Intro to HTML website coding,TRUE,20,7416,65,14,Beginner Level
+602,Learn how to use Javascript Components with PHP and Symfony,TRUE,90,1822,4,25,All Levels
+603,So you think you know JavaScript?,TRUE,50,1010,154,25,All Levels
+604,Learn Node.js by building Udemy: Stripe + MailChimp + Wistia,TRUE,110,1425,36,34,All Levels
+605,Learn jQuery: An In-depth Course For Beginners,TRUE,50,7014,95,62,All Levels
+606,JavaScript for Beginning Web Developers,TRUE,75,7785,416,33,Beginner Level
+607,JQuery Create Overlay Popups from scratch using Jquery,TRUE,50,4407,17,29,All Levels
+608,Vue JS 2: From Beginner to Professional,TRUE,145,602,93,214,All Levels
+609,Ultimate AngularJS: Build a Real-World App from Scratch,TRUE,100,1712,438,49,All Levels
+610,Wordpress Site Migration,TRUE,20,1894,40,35,All Levels
+611,introduction to HTML Course,TRUE,20,3258,32,16,Beginner Level
+612,Create Single Page Website using Twitter Bootstrap 3,TRUE,20,7449,111,13,Intermediate Level
+613,The All-In-One Web Development Course,TRUE,85,538,13,113,All Levels
+614,Code a Responsive Website Using HTML5 and CSS for Beginners,TRUE,50,1271,136,110,Beginner Level
+615,AngularJS for the Real World - Learn by creating a WebApp,TRUE,115,1407,137,69,All Levels
+616,Wordpress Tutorial   ,TRUE,200,2311,8,44,All Levels
+617,Create a REAL Social Network like Facebook in PHP + MySQL,TRUE,45,1002,178,174,All Levels
+618,Advanced Node.js Development,TRUE,55,2565,32,41,Expert Level
+619,ASP.NET MVC 5 Project - Facebook Clone,TRUE,30,210,19,41,All Levels
+620,Bootstrap For Beginners: A  Basic Introduction,TRUE,55,1186,14,9,Beginner Level
+621,jQuery for Beginners,TRUE,20,1421,17,36,All Levels
+622,JavaScript Basics For Web Developers,TRUE,20,958,14,17,Beginner Level
+623,Learn PHP from Scratch,TRUE,50,1550,25,27,Beginner Level
+624,Learn Express,TRUE,25,1309,60,14,Intermediate Level
+625,"Build A Web App with VueJS, Spring Framework and MongoDB",TRUE,145,251,32,25,All Levels
+626,Zend Framework 2: Learn the PHP framework ZF2 from scratch,TRUE,40,723,130,37,All Levels
+627,Improved SEO with Rich Snippets and MicroData,FALSE,0,11026,228,13,Intermediate Level
+628,X theme for WordPress: Responsive web design without code!,TRUE,20,1318,81,55,All Levels
+629,Become a HTML and CSS Developer - Build a Responsive Site,FALSE,0,3894,91,29,Beginner Level
+630,How to Make a Wordpress Website 2017,FALSE,0,12293,235,18,All Levels
+631,Install Wordpress,TRUE,20,1447,35,7,Beginner Level
+632,CSS Specialist: Comprehensive CSS Training,TRUE,100,487,31,52,Beginner Level
+633,Introduction to Laravel 4,FALSE,0,9110,411,22,All Levels
+634,Introduction to Elm,FALSE,0,1519,28,20,Intermediate Level
+635,Learn to Freelance with People Per hour  (URDU),TRUE,20,948,48,8,All Levels
+636,Learn Wordpress 4 from Scratch : Create Awesome Websites,TRUE,75,2023,8,25,All Levels
+637,Amazon Alexa Development: From Beginner to Intermediate,TRUE,140,1858,110,52,All Levels
+638,The Build a SAAS App with Flask Course,TRUE,40,2244,365,168,All Levels
+639,Learn JSON with JavaScript Objects and APIs in 1 hour,TRUE,95,3619,93,19,Intermediate Level
+640,1 Hour JavaScript,TRUE,200,22999,602,18,Beginner Level
+641,Building An E-Commerce Store Using Java Spring Framework,TRUE,95,2743,589,61,All Levels
+642,Typescript Masterclass & FREE E-Book,TRUE,150,1229,139,108,All Levels
+643,PHP MVC Framework CodeIgniter Tutorial for Beginners Project,TRUE,100,3701,508,125,All Levels
+644,JavaScript - Become Higly Paid Front End Developer,TRUE,105,710,137,49,Beginner Level
+645,Object Oriented Programming (OOP) in PHP - Build An OOP Site,TRUE,20,6588,721,36,All Levels
+646,Beginners Introduction to Web Development,TRUE,200,7331,55,18,Beginner Level
+647,Django + AngularJS for a Powerful Web Application,TRUE,95,4463,59,36,Intermediate Level
+648,WordPress Academy: Learn WordPress step by step,TRUE,150,1873,360,79,Beginner Level
+649,Web Development Essential Skills - Complete HTML and CSS,TRUE,95,1388,11,58,All Levels
+650,Byte-Sized-Chunks: Closures in Javascript,TRUE,20,1292,2,12,All Levels
+651,Laravel Account Activation Project,TRUE,50,1147,19,19,All Levels
+652,WordPress: Create an Amazing Website With Ease,TRUE,200,1109,13,24,All Levels
+653,Mastering the Google Chrome Developer Tools,TRUE,20,2002,41,31,All Levels
+654,Kali Linux Web App Testing,TRUE,75,876,48,29,All Levels
+655,Learn Ruby Programming The Easy Way - Lite,TRUE,20,1186,12,7,All Levels
+656,"Web Scraping with Python, Ruby & import. io",TRUE,75,973,50,46,All Levels
+657,Sending email with PHP: from Basic to Advanced,TRUE,40,379,58,45,All Levels
+658,WordPress 2016 for Beginners : Build awesome websites!,TRUE,20,2177,13,43,All Levels
+659,Learn to make websites with Google's Material Design Lite,TRUE,20,1063,72,84,All Levels
+660,Joomla 3 : Develop a Professional Website in 3 Simple Steps!,TRUE,35,1309,74,43,All Levels
+661,Complete Python Web Course: Build 8 Python Web Apps,TRUE,110,7489,941,173,All Levels
+662,Web Design for Beginners: Real World Coding in HTML & CSS,TRUE,100,9103,1724,58,All Levels
+663,Ethereum Developer: Build A Decentralised Blockchain App,TRUE,195,3169,527,38,All Levels
+664,The Complete Web Development Course -  Build 15 Projects,TRUE,200,7501,1213,384,All Levels
+665,Angular 2 + Rails 5 Bootcamp,TRUE,150,1967,372,60,Intermediate Level
+666,Javascript - From Beginner to Pro-Build real world JS apps,TRUE,195,28694,688,77,Beginner Level
+667,Redux in Angular (2 and 4+),TRUE,70,909,16,13,Intermediate Level
+668,The complete JavaScript developer: MEAN stack zero-to-hero,TRUE,75,4820,983,53,All Levels
+669,Running a Web Development Business: The Complete Guide,TRUE,150,24575,525,98,All Levels
+670,Projects In JavaScript & JQuery,TRUE,60,9109,620,50,All Levels
+671,Learn To Build Beautiful HTML5 And CSS3 Websites In 1 Month,TRUE,50,18818,407,80,All Levels
+672,"Full stack Universal React with Redux, Node js and MongoDB",TRUE,195,1121,174,62,Intermediate Level
+673,Creating an MP3 Player with HTML5,TRUE,20,14551,169,14,All Levels
+674,Be a Bootstrap Developer from scratch,TRUE,100,5800,185,32,Beginner Level
+675,Create Your First Wordpress Site in Under an Hour,TRUE,20,4867,128,12,Beginner Level
+676,Learn Coding as RF or Telecom Engineer - Build Real Program,TRUE,25,1006,4,8,Beginner Level
+677,Creating FaceBook Design Using Bootstrap - Handson Project,TRUE,80,4616,20,19,All Levels
+678,Building HTML5 Canvas projects from scratch,TRUE,100,8968,35,25,Beginner Level
+679,Learn How To Become a Web Developer From Scratch,TRUE,200,7062,72,172,Beginner Level
+680,"Earn Big Profits With Web Development, Simple and Easy!",TRUE,90,3073,27,13,Beginner Level
+681,BDD with Ruby on Rails using RSpec 3 and Capybara,TRUE,175,2706,179,103,All Levels
+682,Learn By Example: jQuery,TRUE,50,1702,49,78,All Levels
+683,Professional Python Web Development Using Flask,TRUE,120,3420,489,102,Beginner Level
+684,JavaScript HTML CSS Project make a Quiz Tutorial,TRUE,95,7130,39,24,All Levels
+685,Voiceover Audio Secrets - Your Way to Top Audio Quality,TRUE,195,918,8,39,Beginner Level
+686,jQuery UI In Depth,TRUE,25,1520,21,52,All Levels
+687,Codeless Website Development with Adobe Muse,TRUE,50,461,67,46,All Levels
+688,Learn To Build A Google Map App Using Angular 2,TRUE,30,116,12,7,Beginner Level
+689,Learn Reactivex From Ground Up,TRUE,40,207,32,32,Intermediate Level
+690,Learn HTML in 59 Minutes - Your intro to front-end dev,TRUE,35,333,15,14,Beginner Level
+691,WordPress Theme Customization 101 (for beginners),TRUE,40,305,40,9,Beginner Level
+692,Supercharging Development With Atom Text Editor,TRUE,20,644,42,28,All Levels
+693,Master WCF 4.0 From Scratch Using C#,TRUE,50,415,67,53,All Levels
+694,Drupal 7 for Beginners,TRUE,35,926,102,37,All Levels
+695,Critical Web Dev Skills & Tools for the Non-Tech Hustler,FALSE,0,3118,8,33,All Levels
+696,Install WordPress on Computer using XAMPP,FALSE,0,4290,150,15,Beginner Level
+697,Java Web Services Part 2,TRUE,20,959,51,74,Intermediate Level
+698,Complete PHP Course With Bootstrap3 CMS System & Admin Panel,TRUE,195,55332,1225,144,All Levels
+699,Learn To Create WordPress Themes By Building 10 Projects,TRUE,60,2273,384,91,All Levels
+700,The Complete NodeJS Course: Build a Full Business Rating App,TRUE,195,17784,260,61,All Levels
+701,Master the MEAN Stack - Learn By Example,TRUE,195,25799,382,42,Intermediate Level
+702,First Web Application with Spring Boot,TRUE,40,2865,95,32,Beginner Level
+703,HTML5 and CSS3: Learn Web Design with HTML + CSS + Bootstrap,TRUE,200,346,28,74,Beginner Level
+704,Backbone Tutorial: Learn Backbonejs from Scratch,TRUE,90,4957,634,60,All Levels
+705,AngularJS Custom Directives with Dan Wahlin,TRUE,75,4128,434,61,All Levels
+706,Angular 2+ with Typescript - Essential Training,TRUE,195,29348,780,66,Beginner Level
+707,Learn Angular 2 from Beginner to Advanced,TRUE,195,32696,526,67,Beginner Level
+708,Create an eCommerce Wordpress Website 2016 - New Divi Theme!,TRUE,30,3503,123,41,Beginner Level
+709,HTML5 and CSS3 : Landing Pages for Entrepreneurs 2016,TRUE,195,2354,16,45,All Levels
+710,Learning Docker and Kubernetes by Lab,TRUE,30,586,54,56,All Levels
+711,Projects in ExpressJS - Learn ExpressJs building 10 projects,TRUE,50,1949,149,102,All Levels
+712,PHP For Beginners : Learn PHP From Scratch!,TRUE,100,1825,17,58,All Levels
+713,Bootstrap 4.0 New Features: Build Responsive Website,TRUE,40,2296,28,14,All Levels
+714,ASP.NET MVC 5 Project - CMS and Shopping Cart with Paypal,TRUE,30,550,97,70,All Levels
+715,Professional RESTful API Design using Python Flask,TRUE,120,578,25,36,Intermediate Level
+716,HTML5 APIs For JavaScript - A Course For Web Developers ,TRUE,50,7706,62,45,All Levels
+717,Learn Python Django - A Hands-On Course,TRUE,50,1339,21,18,Beginner Level
+718,Comprehensive JavaScript Programming,TRUE,20,6760,84,27,All Levels
+719,Security for your WordPress site,TRUE,85,1096,8,7,Beginner Level
+720,Try Django 1.9 | Build a Blog and Learn Python's #1 Library,TRUE,50,7407,172,147,All Levels
+721,Accelerated ES6 JavaScript Training,TRUE,110,5811,850,114,Intermediate Level
+722,AWS Serverless APIs & Apps - A Complete Introduction,TRUE,145,2145,166,136,All Levels
+723,Python and Django Full Stack Web Developer Bootcamp,TRUE,200,11832,1883,191,All Levels
+724,The Complete Elixir and Phoenix Bootcamp,TRUE,50,5279,1375,123,All Levels
+725,Build a Real-world App with ASP.NET Core and Angular 2 (4+),TRUE,190,5332,828,160,Intermediate Level
+726,REST APIs with Flask and Python,TRUE,110,5151,737,115,Intermediate Level
+727,Angular 4 (formerly Angular 2) - The Complete Guide,TRUE,190,73783,19649,329,All Levels
+728,Build Websites from Scratch with HTML & CSS,TRUE,145,51257,1955,77,Beginner Level
+729,PHP for Beginners -Become a PHP Master - Project Included,TRUE,200,28880,4316,286,All Levels
+730,The Professional Ruby on Rails Developer,TRUE,100,17334,676,96,All Levels
+731,The Complete Ruby on Rails Developer Course,TRUE,195,33677,3809,283,All Levels
+732,Docker Technologies for DevOps and Developers,TRUE,30,19210,3137,44,All Levels
+733,JavaScript programming: JavaScript for beginners,TRUE,55,2215,223,74,Beginner Level
+734,JSON in Action: Build JSON-Based Applications,TRUE,50,1322,171,37,All Levels
+735,Learn Ruby Programming The Easy Way,TRUE,35,3485,22,19,All Levels
+736,Learn OAuth 2.0 - Get started as an API Security Expert,TRUE,95,2185,283,45,All Levels
+737,AngularJS For .Net Developers From Scratch,TRUE,50,2494,303,40,Intermediate Level
+738,"Jekyll: make fast, secure static sites and blogs with Jekyll",TRUE,45,2091,86,29,Beginner Level
+739,HTML and CSS BootCamp for Beginners,TRUE,30,1777,35,48,Beginner Level
+740,Hosting Django: Amazon Web Services (AWS) Fundamentals,TRUE,45,2573,103,46,All Levels
+741,Angular Advanced MasterClass & FREE E-Book,TRUE,150,228,9,72,Intermediate Level
+742,Learn Responsive Web Development from Scratch,FALSE,0,59639,2692,24,All Levels
+743,Build WordPress Plugin to extend Beaver Builder,TRUE,50,1705,26,17,Intermediate Level
+744,Coding Made Easy: A Beginners Guide To JavaScript,TRUE,40,1950,33,16,Beginner Level
+745,The Complete Developers Guide to MongoDB,TRUE,150,10945,1286,129,All Levels
+746,Electron for Desktop Apps: The Complete Developer's Guide,TRUE,50,2606,241,77,Beginner Level
+747,Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex),TRUE,190,17671,4675,329,All Levels
+748,"React JS, Angular & Vue JS - Quickstart & Comparison",TRUE,160,2273,288,142,Beginner Level
+749,The Complete JavaScript Course: Build a Real-World Project,TRUE,195,27801,4340,113,All Levels
+750,Angular (Angular 2 or 4) & NodeJS - The MEAN Stack Guide,TRUE,150,17297,3166,111,All Levels
+751,Angular 2 with TypeScript for Beginners: The Pragmatic Guide,TRUE,150,40070,8341,194,All Levels
+752,Meteor and React for Realtime Apps,TRUE,140,6527,1384,111,All Levels
+753,The Web Developer Bootcamp,TRUE,200,121584,27445,342,All Levels
+754,AngularJS JumpStart with Dan Wahlin,TRUE,75,17802,2144,113,All Levels
+755,The Complete Web Developer Course 2.0,TRUE,200,114512,22412,304,All Levels
+756,Ultimate Web Designer & Developer Course: Build 23 Projects!,TRUE,200,33788,4434,246,All Levels
+757,ExpressJS Fundamentals,FALSE,0,21245,914,9,Beginner Level
+758,REST WCF Service in ASP.NET,FALSE,0,7905,561,5,All Levels
+759,Projects in Node.js - Learn by Example,TRUE,195,869,99,38,All Levels
+760,Building Data Visualizations with D3 and Angular 2,TRUE,125,293,30,31,Beginner Level
+761,Learn Object Oriented PHP By Building a Complete Website,FALSE,0,36322,2618,32,All Levels
+762,Web Programming Course : Asp.Net MVC,TRUE,100,2760,76,26,All Levels
+763,Learn Spring Framework Practically - Hands On Recipies,TRUE,145,522,50,48,All Levels
+764,One-stop Ruby on Rails: Build Web Applications from Scratch,TRUE,145,1628,162,129,All Levels
+765,Learn what's new in PHP 7,FALSE,0,12336,271,26,Intermediate Level
+766,Dive Into Docker: The Docker Course for Developers,FALSE,0,6437,313,22,Beginner Level
+767,"Basic Concepts of Web Development, HTTP and Java Servlets",TRUE,35,2797,59,10,Beginner Level
+768,The Most Comprehensive Web Development Course,TRUE,200,333,22,353,All Levels
+769,Learn and Understand AngularJS,TRUE,175,59361,11580,55,All Levels
+770,JavaScript: Understanding the Weird Parts,TRUE,175,79612,16976,85,All Levels
+771,Webpack 2: The Complete Developer's Guide,TRUE,75,8964,1893,56,All Levels
+772,Build Responsive Real World Websites with HTML5 and CSS3,TRUE,195,43977,7106,77,All Levels
+773,ES6 Javascript: The Complete Developer's Guide,TRUE,80,13010,2709,68,Beginner Level
+774,Learn and Understand NodeJS,TRUE,195,58208,11123,98,All Levels
+775,Understanding TypeScript,TRUE,110,9132,1560,137,All Levels
+776,Advanced React and Redux,TRUE,140,21998,3326,119,Intermediate Level
+777,Modern React with Redux,TRUE,180,50815,15117,150,All Levels
+778,Angular Styling & Animations (for Angular 2 and Angular 4),TRUE,120,4138,307,107,Intermediate Level
+779,The Complete ASP.NET MVC 5 Course,TRUE,190,20652,6357,138,All Levels
+780,GraphQL with React: The Complete Developers Guide,TRUE,150,6412,987,114,Intermediate Level
+781,"Create a Simple Photo Gallery with Dropzonejs, Slick and PHP",FALSE,0,2464,17,9,All Levels
+782,WordPress in under an hour - Create/manage your own website!,FALSE,0,6474,86,15,All Levels
+783,Twitter Bootstrap 2 for Beginners,TRUE,20,2388,139,12,Beginner Level
+784,Bootstrap Tutorial - Essentials From Basic to Advanced,TRUE,195,1494,23,62,All Levels
+785,Create an Engaging Website with Twitter Bootstrap 2.x,TRUE,20,1463,56,24,All Levels
+786,Javascript :basics for beginners,TRUE,30,1057,22,12,Beginner Level
+787,CSS Tutorial For Beginners: Style Your Wordpress Templates,TRUE,35,1049,22,47,Beginner Level
+788,HTML5 And CSS3 - Build Modern Responsive Websites,TRUE,175,109,17,69,All Levels
+789,PSD to HTML5/CSS3 using Twitter Bootstrap 3! ,TRUE,95,2073,24,16,All Levels
+790,Web Development: Make A Website That Will Sell For Thousands,TRUE,50,1116,62,51,All Levels
+791,WordPress Basics to Business: Share and Sell your Expertise,TRUE,50,1125,10,45,Beginner Level
+792,PHP Zend Framework 2:Creating a CRUD Application,TRUE,40,802,6,9,All Levels
+793,JavaScript Fundamentals,FALSE,0,4409,71,100,All Levels
+794,Building a Website With Jekyll,TRUE,20,686,19,21,All Levels
+795,Big Data and Apache Hadoop for Developers - Fundamentals,TRUE,30,1154,89,9,Intermediate Level
+796,Wordpress Development : Create a Custom Wordpress Website,TRUE,120,885,3,13,All Levels
+797,How to Make a Wordpress Website 2017,FALSE,0,2437,137,10,Beginner Level
+798,RESTful Services with ASP.NET Web API,TRUE,85,716,59,34,All Levels
+799,Web Hosting Fundamentals,TRUE,20,1867,19,8,All Levels
+800,Learning Path: React: Make Stunning React Websites,TRUE,200,91,5,53,Expert Level
+801,Administering Microsoft SQL Server 2012 Databases - 70-462,TRUE,60,586,65,98,All Levels
+802,PHP CodeIgniter:CRUD concepts in MVC,TRUE,40,601,4,6,All Levels
+803,Adobe Experience Manager CMS Basics,TRUE,35,81,14,33,Beginner Level
+804,Introduction to Frontend Web Development For  Beginners,TRUE,145,1018,28,48,Beginner Level
+805,PHP: Complete Login and Registration System with PHP & MYSQL,TRUE,200,1448,173,48,All Levels
+806,JavaScript Complete Guide to learning JavaScript,TRUE,200,1296,22,72,Beginner Level
+807,Advanced Scalable Python Web Development Using Flask,TRUE,120,1299,56,71,Intermediate Level
+808,jQuery for Absolute Beginners - Lite,TRUE,20,1769,49,7,All Levels
+809,HTML Complete Course - Beginner to Expert,FALSE,0,20073,615,28,All Levels
+810,Cross-Platform Development with ASP.NET Core 1.0 MVC,TRUE,35,601,126,64,All Levels
+811,Build a Photo Blog with Ruby on Rails,TRUE,20,2281,32,21,Intermediate Level
+812,Practical PHP: Master the Basics and Code Dynamic Websites,FALSE,0,83737,4598,45,All Levels
+813,Sass Workflow,FALSE,0,20890,945,21,Beginner Level
+814,Learn PHP Fundamentals From Scratch,FALSE,0,48650,1236,9,Beginner Level
+815,XML For Absolute Beginners: Learn to create your own tags,TRUE,75,1945,58,10,Beginner Level
+816,Joomla: Create a Joomla Website This Weekend With NO CODING!,FALSE,0,18496,386,30,Beginner Level
+817,JavaScript for beginners - A Complete Guide,TRUE,100,1193,87,58,All Levels
+818,Laravel Deployment - Launch your Laravel Application Online,FALSE,0,4905,101,13,Intermediate Level
+819,WordPress Development Crash Course: From Zero To Hero,TRUE,60,1699,8,22,All Levels
+820,Learn how to create a WordPress theme using Pinegrow,FALSE,0,11812,152,19,Intermediate Level
+821,Learn to Build Web Apps using Laravel Framework,TRUE,30,746,93,39,All Levels
+822,Flexbox: The complete guide,TRUE,35,189,7,16,All Levels
+823,How to Safely Copy and Move Your WordPress Website,TRUE,60,1419,38,20,Intermediate Level
+824,AngularJs :basics for beginners,TRUE,45,1237,16,14,All Levels
+825,JSON For Beginners: A Very Basic Introduction,TRUE,65,1703,27,8,Beginner Level
+826,Learn SASS and improve your CSS,TRUE,55,1849,29,24,All Levels
+827,Angular Tutorial For Beginners,FALSE,0,5397,112,36,Beginner Level
+828,HTML and CSS for Absolute Beginners,FALSE,0,4410,52,26,All Levels
+829,"JavaScript, jQuery and Ajax",TRUE,20,1554,30,60,All Levels
+830,Laravel Blog Development Starter,FALSE,0,4499,138,20,All Levels
+831,React: Learn ReactJS Fundamentals for Front-End Developers,TRUE,55,1993,55,26,All Levels
+832,JavaScript For Absolute Beginners - Level Two,TRUE,30,424,85,9,Intermediate Level
+833,How To Create A Real Estate Website With Wordpress 2017,FALSE,0,3782,32,11,Beginner Level
+834,The Complete HTML5 and CSS3 Course - with 8 Websites Design,TRUE,30,1551,42,78,All Levels
+835,Introduction to Modern Programming with PHP,TRUE,20,954,183,123,Beginner Level
+836,HTML Introduction Course: Learn HTML in 2 hours!!!,FALSE,0,7304,368,28,All Levels
+837,Learn HTML & CSS: How To Start Your Web Development Career,FALSE,0,15462,689,60,Beginner Level
+838,React vs Angular vs Vue.js by Example,FALSE,0,6958,132,30,Beginner Level
+839,Create WordPress Plugins,TRUE,50,964,19,21,All Levels
+840,Build and Deploy a LAMP server on AWS,FALSE,0,3571,18,8,Beginner Level
+841,Build your own Beautiful Blog in WordPress + SEO,TRUE,200,2421,6,28,All Levels
+842,AngularJS Authentication: Secure Your App with Auth0,FALSE,0,21689,1080,13,All Levels
+843,Learn Bootstrap 4 by Example,FALSE,0,5542,54,9,All Levels
+844,Complete WooCommerce Plugin Tutorial For Wordpress 2017,FALSE,0,7922,183,16,Beginner Level
+845,How To Build And Make A Wordpress Website From Scratch 2017,FALSE,0,7055,166,24,All Levels
+846,Docker for Developers - Newest Version 1.12 with Swarm Mode,TRUE,95,767,104,81,Beginner Level
+847,Angular Material - Quickstart,FALSE,0,3766,135,14,Beginner Level
+848,HTML and CSS for Beginners - Build a Website & Launch ONLINE,FALSE,0,70773,5660,50,All Levels
+849,"Core: A Web App Reference Guide for Django, Python, and More",TRUE,195,2497,98,154,All Levels
+850,"JSON with Java APIs, jQuery and JSON REST Web Services",TRUE,95,799,87,41,Beginner Level
+851,Bootstrap 4 Quick Start: Code Modern Responsive Websites,FALSE,0,41478,2104,13,All Levels
+852,Learn Symfony 3 framework by practical examples,TRUE,125,867,177,48,All Levels
+853,"Complete Web Development with HTML, CSS and Javascript",FALSE,0,2097,16,10,Intermediate Level
+854,Web Hosting Introduction: How to Publish Your Website Online,FALSE,0,5533,137,11,Beginner Level
+855,Django For Beginners,TRUE,175,534,16,51,Beginner Level
+856,Introduction to QGIS Python Programming,TRUE,85,197,26,28,Beginner Level
+857,Learning Object-Oriented JavaScript,TRUE,75,533,54,23,Intermediate Level
+858,Bootstrap Tutorial for Beginners,TRUE,20,1036,27,20,Beginner Level
+859,Learn Bootstrap3 With Multi Purposes Single Page Layout,FALSE,0,4503,146,122,All Levels
+860,HTML for Beginners,FALSE,0,8592,336,35,Beginner Level
+861,How to Build WordPress Themes: A Web Designer's Guide,TRUE,165,183,30,47,Intermediate Level
+862,XML DTD :basics for beginners,TRUE,35,903,3,7,All Levels
+863,Learn to make an HTML 5 website with a video background,TRUE,80,1236,18,14,All Levels
+864,Learn Authentication With ASP.NET Identity Security 2017,TRUE,50,305,45,13,All Levels
+865,HTML and CSS Foundations,FALSE,0,1544,15,29,Beginner Level
+866,Python Web Programming,TRUE,100,1020,46,60,Beginner Level
+867,Build a Complete Registration and Login System using PHP MVC,TRUE,80,325,50,106,All Levels
+868,ES6 / EcmaScript 6 for beginners an introduction,FALSE,0,3227,19,21,Intermediate Level
+869,React for visual learners,TRUE,20,659,64,26,All Levels
+870,Learn to Create Advance Responsive Websites With Bootstrap,TRUE,20,2528,15,30,All Levels
+871,Master the Art of Web Design with HTML & CSS,TRUE,145,550,15,59,All Levels
+872,Sell Courses On Your Own Website - No Coding Required!,TRUE,100,1032,9,21,All Levels
+873,Implementing a Data Warehouse with SQL Server 2012 ,TRUE,85,1142,148,90,All Levels
+874,Learning 200 jQuery Functions with 800 Examples,TRUE,195,1766,38,118,All Levels
+875,Create Complete Web Applications easily with APEX 5,TRUE,30,912,128,81,Intermediate Level
+876,"Learn Gulp, The Streaming Build System",TRUE,25,1305,38,16,All Levels
+877,Perfect React JS Course - Understand Relevant Details,TRUE,200,653,20,25,Beginner Level
+878,Create a classified website in 2 hours - guaranteed,TRUE,50,3411,84,22,All Levels
+879,Learn HTML And CSS From Scratch,FALSE,0,11533,240,18,Beginner Level
+880,Become a Certified Web Developer - Beginner to Expert,TRUE,200,3397,12,85,All Levels
+881,Complete Bootstrap 4 course - build 3 projects,FALSE,0,7865,241,36,All Levels
+882,Up and Running with Phalcon,TRUE,20,715,12,12,All Levels
+883,HTML : HTML Awesomeness,TRUE,25,988,23,27,Beginner Level
+884,Build CRUD Application - PHP & Mysql,FALSE,0,4405,71,12,Beginner Level
+885,All You Need To Know About AngularJS - Training On AngularJS,TRUE,50,1936,88,53,All Levels
+886,PSD To a Creative Landing Page Using Twitter Bootstrap 3,FALSE,0,11666,546,20,Beginner Level
+887,Ready for Production with Spring Boot Actuator,TRUE,55,361,26,49,Intermediate Level
+888,AngularJS For Beginners,FALSE,0,30531,1948,53,All Levels
+889,Learning Path: Akka: Building Applications and Microservices,TRUE,200,88,8,55,Intermediate Level
+890,Set up a localhost Web Server for Faster Website Development,TRUE,30,55,13,31,All Levels
+891,Mastering Meteor: Reactive Full Stack JavaScript,TRUE,95,494,46,37,Expert Level
+892,Build A Professional Wordpress Website In An Hour,TRUE,20,1294,11,15,All Levels
+893,Build a file hosting/sharing site in less than 2 hours ,TRUE,20,976,29,13,All Levels
+894,Introduction to Java Programming for Online Learners,TRUE,200,1586,87,124,Beginner Level
+895,Create full featured Landing Page in Ruby on Rails in 3 hour,TRUE,30,1550,15,23,All Levels
+896,How to create a  video blog with WordPress,TRUE,25,1209,8,62,All Levels
+897,PHP For WordPress Development,TRUE,35,850,12,16,Beginner Level
+898,Create a Professional Website Without Programming/Coding,FALSE,0,5421,93,20,All Levels
+899,How to Build an Autocomplete System Like Google,TRUE,30,255,5,9,All Levels
+900,Master EmberJS : Learn Ember JS From Scratch,TRUE,120,707,59,103,All Levels
+901,How To Make A Modern Wordpress BLOG 2017! Create Your Blog!,FALSE,0,6856,137,19,Beginner Level
+902,Learn Top Ten PHP FrameWorks By Building Projects,TRUE,60,1007,96,87,All Levels
+903,How to Make a Video Blog Website From Scratch w/ Wordpress ,FALSE,0,12952,163,22,All Levels
+904,Build Websites And Apps By Outsourcing,TRUE,20,2299,11,22,All Levels
+905,Learning Path: Web Applications with Spring and Angular,TRUE,200,19,2,33,Expert Level
+906,Learn Ruby on Rails By Building Projects,TRUE,60,1736,79,47,All Levels
+907,Canvas image Creator HTML5 JavaScript project from Scratch,TRUE,100,2195,10,35,Intermediate Level
+908,Javascript Essentials,FALSE,0,47062,5590,41,Beginner Level
+909,Devtools 2017: The Basics of Chrome Developer Tools,FALSE,0,4569,108,18,Beginner Level
+910,Chrome Extensions : Develop 5 chrome extensions from scratch,FALSE,0,3655,85,44,Beginner Level
+911,Learn how to quickly build websites using Wordpress,FALSE,0,15715,406,28,All Levels
+912,Advance Unix : File Processing: AWK | SED | GREP | CUT | VIM,TRUE,75,578,40,84,Expert Level
+913,Develop a Professional OnePage WordPress site With No Coding,TRUE,20,1747,13,13,Beginner Level
+914,PHP Specialist (2017 Edition),TRUE,100,197,11,53,Beginner Level
+915,Python Programming: Create an Digital Marketplace in Django,TRUE,195,4198,145,161,All Levels
+916,Create Ajax Chat App with PHP & Mysql,TRUE,45,540,11,19,Beginner Level
+917,Mastering Thymeleaf with Spring,TRUE,75,942,161,64,All Levels
+918,Learn Rails Programming in Less than 2 Hours,TRUE,35,2470,24,19,All Levels
+919,Wordpress Backup & Restore,TRUE,95,478,37,18,All Levels
+920,Learn JavaScript Dynamic Interactive Projects for Beginners,TRUE,100,2558,12,36,Beginner Level
+921,Build Modern Websites Super Fast,TRUE,25,2178,22,19,All Levels
+922,SAP - Learn SAPUI5 Professional Development,TRUE,195,860,201,56,All Levels
+923,Wordpress Security,TRUE,95,2888,26,24,All Levels
+924,Learn HTML5 At Your Own Pace. Ideal for Beginners,TRUE,50,3026,60,67,All Levels
+925,Build an Amazon clone: Nodejs + MongoDB + Stripe Payment,TRUE,20,2164,290,70,All Levels
+926,Build Real World Websites from Scratch using HTML5 and CSS3,TRUE,195,10874,114,59,Beginner Level
+927,How to become an App Developer,TRUE,200,1935,17,10,Beginner Level
+928,"Modern JavaScript: Building Real-World, Real-Time Apps",TRUE,50,1871,154,60,Intermediate Level
+929,JavaScript Introduction to Object Oriented JavaScript,TRUE,90,7789,59,23,Beginner Level
+930,Core HTML How to get online quickly HTML to HTML5 ,TRUE,90,10394,33,34,Beginner Level
+931,Building Websites JavaScript and the DOM,TRUE,120,17759,64,37,Beginner Level
+932,Complete Login and Registration System in PHP and MYSQL,TRUE,200,4714,149,28,All Levels
+933,The Complete E-Commerce Web Developer Course 5.0,TRUE,195,3209,58,96,All Levels
+934,HTML5 canvas Bootcamp for beginners 25 easy steps,TRUE,120,14118,30,27,Beginner Level
+935,Advanced HTML5 Tutorial for Web Developers,TRUE,50,11847,57,57,All Levels
+936,Learn the Basics of Programming for Marketers,TRUE,55,11339,43,26,Beginner Level
+937,Css For Beginners,TRUE,85,1156,13,28,Beginner Level
+938,GRUNT js: Automate web development tasks and save your time,TRUE,55,1534,33,18,All Levels
+939,Mastering Web and Mobile Debugging Using Chrome Dev Tools,TRUE,195,1102,12,21,All Levels
+940,HTML : Beginner Guide to HTML writing,TRUE,20,783,20,13,Beginner Level
+941,Build Web Apps Using EmberJS: The Complete Course,TRUE,40,627,126,31,All Levels
+942,SharePoint 2013 Development using C# - Part I,TRUE,50,891,101,119,All Levels
+943,SAP Crystal Reports with ASP.Net (Step by step),FALSE,0,7484,304,5,Beginner Level
+944,Building Responsive Data Visualizations with D3 JS,TRUE,85,876,59,28,All Levels
+945,Learn Rails Programming in Less than 30 Minute - Lite,TRUE,20,1235,25,7,All Levels
+946,SASS - Beginner Crash Course,TRUE,25,1143,34,13,Beginner Level
+947,Angular 2 Fundamentals for Web Developers,TRUE,40,450,61,41,All Levels
+948,Easily Learn Web Development With Drop & Drag: OptimizePress,TRUE,20,1442,9,25,Beginner Level
+949,XML XSLT - Crash Course for Beginners,TRUE,45,426,4,9,All Levels
+950,Create Your Own Successful Online School To Sell Courses,TRUE,95,2814,14,39,Beginner Level
+951,Flask Tutorial Step by Step,FALSE,0,4645,171,19,Intermediate Level
+952,Ruby on Rails a Beginners Guide ,FALSE,0,13130,346,88,Beginner Level
+953,Mastering Basic CSS Selectors.,FALSE,0,3933,23,14,Beginner Level
+954,Create a Website Similar to Facebook from Scratch!,TRUE,25,2197,9,12,All Levels
+955,Comprehensive TypeScript,TRUE,125,1318,78,51,All Levels
+956,"Essential HTML, CSS & HTML5 Training",TRUE,50,1553,35,43,Beginner Level
+957,HTML 5 and CSS 3 - tricks and workarounds,TRUE,80,2007,10,113,All Levels
+958,"How to Register a Domain, Set Up Hosting, and Edit Web Pages",TRUE,45,1540,19,39,Beginner Level
+959,WordPress Plugins Treasure Chest,TRUE,25,1655,10,44,Intermediate Level
+960,Practical Understanding of PHP and MySQL,FALSE,0,12201,217,24,Beginner Level
+961,"AngularJS for Beginners, Single-Page Applications Made Easy",TRUE,200,1284,46,30,All Levels
+962,Building a Social Network in PHP & MySQL From Scratch,TRUE,50,869,125,78,All Levels
+963,XML DOM - Crash Course for Beginners,TRUE,45,396,6,8,All Levels
+964,Create a Powerful Website with the Cool Bootstrap Framework,FALSE,0,7142,41,25,All Levels
+965,HTML5 and CSS3 -Start building beautiful websites,TRUE,150,1414,14,22,All Levels
+966,Getting Started as a Web Developer,FALSE,0,9833,241,15,Beginner Level
+967,Learn Laravel: Create Your Web App Step-By-Step,TRUE,45,604,47,35,All Levels
+968,Professional Web Scraping with Java,TRUE,50,685,37,14,Intermediate Level
+969,3D Programming with WebGL and Babylon.js for Beginners,TRUE,200,549,49,18,Intermediate Level
+970,Learn to make a colorful one page website,TRUE,200,1220,16,16,All Levels
+971,WordPress Plugin Tutorial,TRUE,40,1588,8,15,Beginner Level
+972,Introduction to HTML,FALSE,0,8371,212,18,Beginner Level
+973,Learn JavaScript From Scratch:Become Top Rated Web Developer,TRUE,65,2570,17,87,All Levels
+974,"Installing Wordpress 4 - Installation, Registrars & Hosting",TRUE,45,6117,188,28,Beginner Level
+975,Learn PHP Programming for Absolute Beginners,TRUE,35,5368,78,20,All Levels
+976,WordPress for Beginners 2017 + Google AdSense Implementation,TRUE,195,2225,14,64,All Levels
+977,JavaScript for beginners in 1 hour,TRUE,95,2086,56,22,Beginner Level
+978,HTML5 and CSS for Beginner To Expert,TRUE,20,1732,15,48,All Levels
+979,Become a Kick-Ass Web Developer: From Newbie to Pro,TRUE,200,6751,44,353,All Levels
+980,Django Tutorial: Build Your First App Fast & Free! ,TRUE,20,5228,180,27,Beginner Level
+981,Create a social network using PHP Mysqli HTML Css and JQuery,TRUE,40,1477,17,27,Intermediate Level
+982,PHP - Send and Receive Mobile Text Messages (SMS),TRUE,50,1626,81,18,All Levels
+983,Complete PHP Course with OOP Start to Finish!,TRUE,200,4529,54,29,All Levels
+984,Coding Made Easy: HTML & CSS For Beginners,TRUE,40,3254,92,16,Beginner Level
+985,WordPress Security - The Ultimate Security Guide,TRUE,60,2267,17,29,All Levels
+986,How to Make a Single Page Website for Freelancers & Agencies,FALSE,0,17463,283,30,All Levels
+987,Learn to Use jQuery UI Widgets,FALSE,0,23669,521,9,Beginner Level
+988,Learn to Create Responsive Layouts in 30 Minutes,FALSE,0,5301,174,6,Beginner Level
+989,Web Building Starter Pack. Html Css and JQuery Animations,TRUE,30,1033,16,42,All Levels
+990,Getting Started with Angular 2+,FALSE,0,6909,401,14,Beginner Level
+991,Intro to PHP Web Application Development with Symfony,TRUE,200,4040,72,20,Beginner Level
+992,Learn OAuth 2.0 - Theory and Hands On,TRUE,145,546,69,21,All Levels
+993,Learning CSS3 - A Comprehensive Tutorial For Web Developers,TRUE,50,2459,107,101,All Levels
+994,Professional WordPress Theme Development from Scratch,TRUE,200,1284,173,301,All Levels
+995,PHP Zend Framework 1.11:Creating a CRUD Application,TRUE,40,1122,5,7,All Levels
+996,Write quicker HTML5 and CSS 3; productivity hacks with emmet,FALSE,0,13016,286,15,All Levels
+997,The Ultimate jQuery Course,TRUE,20,1098,15,54,All Levels
+998,Build an Advanced Single Page with Bootstrap & WordPress,TRUE,95,481,75,77,Intermediate Level
+999,Master all PHP ideas 2017 to build any project,TRUE,50,376,19,49,Beginner Level
+1000,A Beginner's Guide to the Meteor JavaScript Framework,TRUE,50,898,132,40,Beginner Level
+1001,Create an E-commerce website without any coding,TRUE,20,1393,40,9,All Levels
+1002,Learn To Build Apps Using Play Framework,TRUE,40,434,69,23,All Levels
+1003,Introducing Ionic 2,TRUE,50,394,78,22,Beginner Level
+1004,Learn Laravel with Database Migration & Seeding & Faker,TRUE,20,263,14,7,All Levels
+1005,Create a Client Network by Hosting WordPress Sites,TRUE,35,1061,8,17,Intermediate Level
+1006,Introduction to PHP Slim Microframework,TRUE,20,1312,19,11,Intermediate Level
+1007,ASP :basics for beginners,TRUE,35,764,7,8,All Levels
+1008,"WordPress Development With NodeJS, Gulp, Composer & More",TRUE,25,289,30,30,Intermediate Level
+1009,Become PHP Facebook Developer: Password-Less Authentication,TRUE,195,4001,8,37,All Levels
+1010,How To Create Your Very First Website With HTML and CSS,TRUE,100,5097,196,37,Beginner Level
+1011,Learn JSON for beginners with JavaScript,TRUE,200,3193,10,23,Beginner Level
+1012,Ultimate guide to Social Media Web development integration ,TRUE,200,11011,13,36,All Levels
+1013,A Complete Laravel basics from beginner to expert,TRUE,25,3492,61,12,All Levels
+1014,JQuery Basics - Learn JQuery From Scratch,TRUE,100,3559,24,18,Beginner Level
+1015,Learn MeteorJS By Building 10 Real World Projects,TRUE,50,2784,221,79,All Levels
+1016,JavaScript Basics for Beginners Introduction to coding,TRUE,150,5495,52,18,Beginner Level
+1017,AngularJS Masterclass - Deep Dive & Understand AngularJS,TRUE,100,2912,309,85,All Levels
+1018,HTML5 for beginners,TRUE,195,9687,59,59,Beginner Level
+1019,All in one HTML CSS and JQuery,TRUE,20,3444,35,16,All Levels
+1020,Responsive Design with NEW Materialize,TRUE,75,12629,88,36,All Levels
+1021,Create a Responsive Business Website with WordPress,TRUE,95,1659,73,38,All Levels
+1022,PHP webservices,TRUE,30,1305,25,8,All Levels
+1023,JavaScript Promises: Applications in ES6 and AngularJS,TRUE,75,651,52,20,Beginner Level
+1024,Learn to build 20 websites and build 14 iOS9 apps with swift,TRUE,40,1926,9,458,All Levels
+1025,Professional CSS Flexbox,TRUE,35,396,130,21,Intermediate Level
+1026,XML :basics for beginners,TRUE,40,1062,12,11,All Levels
+1027,How to create Paypal and Credit card Payment Buttons,TRUE,65,578,6,8,Beginner Level
+1028,Customizr - Learn WordPress with the ultimate creative theme,FALSE,0,4735,81,69,Beginner Level
+1029,How To Create a Local Wordpress Environment,FALSE,0,4306,163,12,Beginner Level
+1030,Fun and creative web engineering with Python and Web2py,FALSE,0,10917,319,25,All Levels
+1031,WordPress for Beginners - Build Your First Website in 2017,TRUE,100,1701,125,88,Beginner Level
+1032,Learn to Make an Animated Image Gallery using HTML5,FALSE,0,11080,165,7,Beginner Level
+1033,Projects in Foundation Framework - Learn By Building 10 Apps,TRUE,50,636,33,54,All Levels
+1034,Drupal for Beginners,TRUE,30,1478,18,83,Beginner Level
+1035,Laravel : CRUD Application Using AJAX In Laravel 5.3,TRUE,20,362,19,8,Intermediate Level
+1036,Foundations of Front-End Web Development,FALSE,0,8337,300,129,Beginner Level
+1037,Angular 2 - Superheroic Framework,TRUE,20,702,21,30,Beginner Level
+1038,Social Network Web Development,TRUE,200,2698,29,57,All Levels
+1039,For Free - Deploy Quickly Spring Boot on Heroku With MySQL,TRUE,95,177,19,10,All Levels
+1040,Building Web Applications with Spring MVC,TRUE,85,714,48,28,All Levels
+1041,"HTML5, CSS3 & Bootstrap - How to Create a Responsive Website",TRUE,20,1062,20,32,All Levels
+1042,HTML & CSS - Learn to build sleek websites ,TRUE,55,1552,14,44,All Levels
+1043,Master Angular 2 - The No Nonsense Course,TRUE,25,102,27,36,Beginner Level
+1044,Master ASP . NET 4 from scratch,TRUE,50,613,135,116,All Levels
+1045,CoffeeScript: The Good Parts—Write Better javaScript,TRUE,50,2152,19,15,Beginner Level
+1046,Mastering Magento,TRUE,85,1063,101,40,All Levels
+1047,Ultimate JavaScript Strings,FALSE,0,3142,117,20,Beginner Level
+1048,Your Own Site in 45 Min: The Complete Wordpress Course,TRUE,120,1566,29,36,All Levels
+1049,Redirect Your Visitors By Country Easily -Wordpress Tutorial,TRUE,20,2306,3,24,Beginner Level
+1050,Learn Knockout JS Framework from GroundUp,TRUE,40,633,104,31,All Levels
+1051,Build Responsive Websites  in an Hour using Portalfin,FALSE,0,2859,42,17,All Levels
+1052,Master Riot: Learn Riot.js from Scratch,TRUE,125,299,75,34,Intermediate Level
+1053,Learn W3.CSS,TRUE,50,1002,7,10,All Levels
+1054,Learning Axure RP,TRUE,75,631,103,65,All Levels
+1055,"Complete guide to install Wordpress, PHP on Cloud,AWS or VPS",TRUE,50,1386,17,28,All Levels
+1056,"Kids Coding -Introduction to HTML, CSS and JavaScript",TRUE,200,2355,143,215,Beginner Level
+1057,Introduction to Voice Design with Amazon's Alexa,FALSE,0,6742,1036,6,Beginner Level
+1058,How to Create a Social Network For a Niche-Related Community,TRUE,100,1853,34,39,All Levels
+1059,Webpack 1 & 2 - The Complete Guide,TRUE,40,252,46,79,All Levels
+1060,Star Rating Project AJAX with JSON response from PHP MySQL,TRUE,120,1302,18,22,Beginner Level
+1061,Wordpress for beginners :Build Websites Fast without Coding ,TRUE,50,1658,72,68,All Levels
+1062,ASP.Net MVC Quick Start,FALSE,0,15092,1234,65,Intermediate Level
+1063,Build a Chatbot integrated Website using Bootstrap 4,TRUE,50,165,13,28,All Levels
+1064,How To Create A WordPress Website Without Paying A Developer,TRUE,20,4333,16,17,Beginner Level
+1065,PSD to Bootstrap 3 for Beginners using HTML & CSS,TRUE,20,976,93,46,Beginner Level
+1066,Build Advanced Responsive Websites with Foundation 6 & SASS,TRUE,200,1276,245,271,All Levels
+1067,Learn Essential Javascript Fundamentals - Lite,TRUE,20,1476,27,8,All Levels
+1068,Learn HTML in 2 hours!,FALSE,0,5351,235,13,Beginner Level
+1069,Laravel 4 try and enjoy php coding,TRUE,20,2402,26,23,Beginner Level
+1070,Wordpress Beginner Tutorial: Build Your First Website,FALSE,0,6402,104,23,Beginner Level
+1071,Build Complex Express Sites with Redis and Socket IO,TRUE,125,223,26,27,Intermediate Level
+1072,Building a ASP.NET MVC 5 Membership Website,TRUE,95,654,86,239,Intermediate Level
+1073,Drupal Views: Introduction to Enhancing Your Drupal Website,TRUE,105,1262,36,40,Beginner Level
+1074,Bootstrap Bootcamp - Responsive web development- 8 projects,TRUE,100,253,34,45,All Levels
+1075,Self Advertise Using PowerPoint Twitter and Facebook on ios,TRUE,20,1780,15,6,Beginner Level
+1076,Learning Bootstrap 3 - Tutorial From Infinite Skills,TRUE,50,1266,90,50,All Levels
+1077,Practical Web Development: Make Websites Quickly And Easily,TRUE,20,2389,7,20,All Levels
+1078,"Learn animation using CSS3, Javascript and HTML5",TRUE,40,1468,54,18,All Levels
+1079,Creating Interactive HTML5 Video,TRUE,25,838,13,23,Intermediate Level
+1080,Optimizing Wordpress for More Speed and Revenue,FALSE,0,2649,16,7,Intermediate Level
+1081,JavaScript project Learn to create a memory Game and more,TRUE,95,6000,21,25,Beginner Level
+1082,The Complete JavaScript Bootcamp,TRUE,195,1839,91,47,All Levels
+1083,JavaScript for Absolute Beginners,TRUE,20,10689,394,17,Beginner Level
+1084,Complete JavaScript Course for Beginners with Easy Examples,TRUE,200,7449,91,32,All Levels
+1085,Angular 2 Master Class with Alejandro Rangel,TRUE,30,4157,206,80,All Levels
+1086,Quick learning jQuery web development,TRUE,150,3388,67,39,Intermediate Level
+1087,Google Blogger Course,TRUE,60,1343,11,22,Intermediate Level
+1088,"Ajax in JavaScript and JQuery, with PHP - Creating Chat App",TRUE,200,3399,85,15,All Levels
+1089,PHP Tutorial: Learn PHP Basic Programming for Beginners,TRUE,20,2510,21,23,Beginner Level
+1090,Mastering Modern Web Development Using React,TRUE,195,1537,8,29,All Levels
+1091,"Full Stack JavaScript: Learn Backbone.js, Node.js & MongoDB",TRUE,50,6134,93,15,Beginner Level
+1092,The Essential Web Developer Course - Build 12 Websites,TRUE,200,9355,390,177,All Levels
+1093,Build Powerful Websites & Blogs using WordPress - No Coding,TRUE,20,1024,14,26,Beginner Level
+1094,Learn to Build Web Apps using UnderscoreJS : Code Like a Pro,TRUE,40,325,37,27,All Levels
+1095,Building Web Apps Using Flask and Neo4j,TRUE,50,166,21,37,All Levels
+1096,Learn Web Animation the Easy Way: An Intro to SVG and GSAP,TRUE,50,203,33,15,All Levels
+1097,Build Your Own Membership Website With Joomla,TRUE,95,1134,9,24,All Levels
+1098,Learn Spring Security 4 Basics - Hands On,TRUE,95,216,28,16,Beginner Level
+1099,Display and analyze GIS data on the web with Leaflet.js,TRUE,100,25,4,66,Intermediate Level
+1100,How to Build a CMS with PHP,TRUE,50,1096,33,10,Beginner Level
+1101,Responsive Web Design with HTML5 and CSS3 - Introduction,TRUE,35,770,65,84,Beginner Level
+1102,Master Typescript : Learn Typescript from scratch,TRUE,95,424,45,60,All Levels
+1103,XSD :basics for beginners,TRUE,35,755,0,7,All Levels
+1104,Angularjs-WebApi2-EFCodeFirst Web App On 3-Tier Architecture,TRUE,60,652,48,46,Intermediate Level
+1105,Css Positioning For Absolute Beginners: A Basic Introduction,TRUE,65,4797,97,11,Beginner Level
+1106,Creating User Authentication System in CodeIgniter,TRUE,200,2783,9,21,All Levels
+1107,How to easily Manage your WordPress Website,TRUE,20,8462,50,21,Beginner Level
+1108,Wordpress For Beginners: Create a Professional Website,TRUE,200,5129,183,35,Beginner Level
+1109,"Building a Portfolio in 90 minutes ( HTML, CSS, Js ) ",TRUE,20,5272,111,24,All Levels
+1110,Automate Web Development With Gulp JS,TRUE,20,2784,425,29,All Levels
+1111,Bootstrap 4 Responsive Web Design and Development,TRUE,20,3086,17,73,Beginner Level
+1112,Intro To HTML & CSS: Web Development For Beginners,TRUE,20,6008,203,35,Beginner Level
+1113,Become Exceptional in HTML and HTML5,TRUE,20,16486,86,34,All Levels
+1114,Become a Rockstar Web Developer - Learn By Coding,TRUE,200,2076,125,56,All Levels
+1115,Spring 4 Mastercourse: Covers Annotation & XML Configuration,TRUE,200,1353,53,320,Intermediate Level
+1116,WordPress Plugin Development for 2017 - Build 14 Plugins,TRUE,50,3770,108,72,All Levels
+1117,Single Page Application of MVC 5 Using AngularJS,TRUE,20,722,53,18,Intermediate Level
+1118,"Learn to Code in HTML5, CSS3, and JavaScript",TRUE,20,1404,7,17,Beginner Level
+1119,Web Application Development - Learn by Building 3 Web Apps,TRUE,30,1688,16,29,Beginner Level
+1120,Rails Ecommerce App with HTML Template from Themeforest,TRUE,25,214,34,24,Intermediate Level
+1121,Writing CSS with {LESS} - Tutorial From Infinite Skills,TRUE,50,788,21,25,All Levels
+1122,Login and Registration from Scratch with PHP and MySQL,TRUE,20,1128,77,36,Intermediate Level
+1123,Getting Started with Magento,TRUE,85,608,88,48,All Levels
+1124,Ruby on Rails Foundations,TRUE,20,359,45,73,All Levels
+1125,Core Concepts in HTML 5,TRUE,75,1532,19,23,Beginner Level
+1126,Learn Azure Cloud Step by Step,TRUE,20,791,29,24,Intermediate Level
+1127,Learn Facebook Flux Architecture for Web Applications,TRUE,40,395,26,36,All Levels
+1128,"Create free, fast and secure static website",TRUE,50,322,9,9,Beginner Level
+1129,Object Orientation in PHP,TRUE,20,151,40,30,Beginner Level
+1130,Creating Custom Web Maps,TRUE,50,208,48,29,Intermediate Level
+1131,Build A YouTube Downloader With C# And GitHub,TRUE,20,385,39,32,Intermediate Level
+1132,Querying Microsoft SQL Server 2012 - (Exam No. 70-461),TRUE,85,666,89,115,All Levels
+1133,HTTP Clients with Laravel: Use and Consume Services and APIs,TRUE,65,237,22,52,Intermediate Level
+1134,Modern E-Commerce Store In php & mysqli With Bootstrap,TRUE,50,240,45,358,All Levels
+1135,Simple And Easy: Wordpress For Beginners,FALSE,0,5014,196,32,Beginner Level
+1136,Create Website from scratch in Urdu & Hindi,FALSE,0,3033,91,9,Intermediate Level
+1137,Advance Unix : File Processing: AWK | GREP | VIM,TRUE,20,458,2,12,All Levels
+1138,Introduction to Node.js Development,TRUE,55,1779,48,16,Expert Level
+1139,Advance JavaScript for Coders: Learn OOP in JavaScript,TRUE,40,334,41,54,Intermediate Level
+1140,Web Development With Google Maps,TRUE,50,222,9,60,Beginner Level
+1141,jQuery UI Ultimate:Design Amazing Interfaces Using jQuery UI,TRUE,145,422,86,69,All Levels
+1142,Learn Spring Security 4 Intermediate - Hands On,TRUE,95,227,16,20,Intermediate Level
+1143,Learning Path: The Road to Elasticsearch,TRUE,200,50,5,60,Beginner Level
+1144,HTML/CSS Bootcamp,TRUE,40,194,26,87,Beginner Level
+1145,JavaScript High Performance,TRUE,95,458,28,40,All Levels
+1146,Node:js : Building Rest Apis with Sails.js,TRUE,100,61,9,44,Beginner Level
+1147,Fundamentals of Angular 2 Full Stack Design,TRUE,95,314,43,49,Beginner Level
+1148,Create Newsletter Subscription Form with PHP/AJAX in 40 Min,TRUE,50,586,10,17,All Levels
+1149,AppML :basics for beginners,TRUE,30,770,0,8,All Levels
+1150,How to manage your own VPS and create websites,TRUE,120,735,16,30,All Levels
+1151,Learn BuddyPress: Build A Social Network with WordPress,TRUE,20,1299,15,23,All Levels
+1152,HTML FOR BEGINNERS,TRUE,20,791,8,16,All Levels
+1153,XML XQuery - Crash Course for Beginners,TRUE,45,426,4,10,All Levels
+1154,Simplified Cross Browser Web Testing Using VirtualBox,TRUE,20,796,3,18,Beginner Level
+1155,JavaScript and jQuery Basics: Start The Journey,TRUE,25,1316,22,45,All Levels
+1156,How to Install WordPress From Scratch,FALSE,0,8415,56,13,Beginner Level
+1157,CSS :basics for beginners,TRUE,30,1085,8,13,All Levels
+1158,"WordPress Development - Themes, Plugins & Single Page Apps",TRUE,150,817,164,131,Intermediate Level
+1159,Learn Effective HTML in No Time!,TRUE,40,1275,11,18,All Levels
+1160,HTML5 Geolocation in Depth:Build 7 HTML5 Geolocation Apps,TRUE,90,1526,72,86,All Levels
+1161,Building a Search Engine in PHP & MySQL,FALSE,0,10110,379,12,All Levels
+1162,create a search engine for your website!,TRUE,20,1832,6,12,Intermediate Level
+1163,Learn basics of HTML in 30 Minutes,TRUE,20,945,17,11,Beginner Level
+1164,JavaScript from Scratch for Very Beginners,TRUE,30,1272,31,29,Beginner Level
+1165,Learn Web Development by Creating a Social Network,TRUE,200,442,48,80,Beginner Level
+1166,CSS Image filters - The modern web images color manipulation,FALSE,0,6315,53,16,All Levels
+1167,Building Responsive Websites with Bootstrap 3 Framework,TRUE,75,1322,14,27,Intermediate Level
+1168,Create a Membership Site with Wishlist Member & Wordpress,TRUE,95,557,39,28,All Levels
+1169,Convert HTML Websites into PHP: Learn by Doing in 40 Minutes,TRUE,50,540,13,15,All Levels
+1170,17 Complete JavaScript   projects explained step by step,TRUE,185,327,26,106,Beginner Level
+1171,Mastering Unix : AWK Commands,TRUE,20,358,0,23,All Levels
+1172,Cakephp:Creating a CRUD application,TRUE,40,803,2,7,All Levels
+1173,HTML and CSS: A Guide to Web Design,TRUE,25,1557,13,74,All Levels
+1174,Drupal 8 Site Building,FALSE,0,1942,23,48,All Levels
+1175,Learn Bootstrap 4 The Most Popular HTML5 CSS3 & JS Framework,TRUE,200,279,37,119,All Levels
+1176,Essentials of Spring 5.0 for Developers,TRUE,125,34,2,21,Expert Level
+1177,The Extreme Web Development Course - For Beginners,TRUE,200,1420,62,152,All Levels
+1178,JQuery DOM and Ajax Concept Explained for Beginners,TRUE,35,1812,112,7,All Levels
+1179,HTML Forms For Beginners: A Basic Introduction  ,TRUE,45,2472,41,8,Beginner Level
+1180,Ultimate JavaScript Objects,TRUE,20,1525,43,65,All Levels
+1181,The Complete Web Developer Course - Build 20 Websites,TRUE,20,2650,61,304,All Levels
+1182,"Simple Javascript: Learn by Doing, Beginners Welcome!",TRUE,25,2753,10,18,All Levels
+1183,"Learn HTML, CSS, and Ruby on Rails: Build Your First Blog",TRUE,20,2985,40,27,Beginner Level
+1184,Learn HTML5 Canvas for beginners,TRUE,100,2360,12,49,Beginner Level
+1185,Bootstrap 4 Beginners: Code a Responsive Landing Page,TRUE,30,948,193,48,All Levels
+1186,Build Wordpress CMS Clone with Laravel 5,TRUE,150,392,81,63,All Levels
+1187,XML DTD - Crash Course for Beginners,TRUE,45,944,1,10,All Levels
+1188,Beginner Photoshop to HTML5 and CSS3,FALSE,0,73110,1716,22,All Levels
+1189,XPATH :basics for beginners,TRUE,40,878,6,8,All Levels
+1190,The Fastest Way to Create a Website Using Godaddy,TRUE,30,1454,14,12,Beginner Level
+1191,A how to guide in HTML,FALSE,0,7318,205,8,Beginner Level
+1192,Building Better APIs with GraphQL,TRUE,50,555,89,16,All Levels
+1193,Learn Grunt with Examples: Automate Your Front End Workflow,TRUE,20,496,113,17,All Levels
+1194,Build A Stock Downloader With Visual Studio 2015 And C#,TRUE,20,436,36,22,Intermediate Level
+1195,jQuery UI in Action: Build 5 jQuery UI Projects,TRUE,150,382,28,140,All Levels
+1196,Learn jQuery from Scratch - Master of JavaScript library,TRUE,100,1040,14,21,All Levels
+1197,How To Design A WordPress Website With No Coding At All,TRUE,25,306,3,42,Beginner Level
+1198,Learn and Build using Polymer,TRUE,40,513,169,48,All Levels
+1199,CSS Animations: Create Amazing Effects on Your Website,TRUE,50,300,31,38,All Levels
+1200,Using MODX CMS to Build Websites: A Beginner's Guide,TRUE,45,901,36,20,Beginner Level
